@@ -1,0 +1,580 @@
+expCode;probCode;1::time;1::Difficulty;1::Confidence;1::Answer;1::Description;1::Correct;2::time;2::Difficulty;2::Confidence;2::Answer;2::Description;2::Correct;3::time;3::Difficulty;3::Confidence;3::Answer;3::Description;3::Correct;4::time;4::Difficulty;4::Confidence;4::Answer;4::Beschreibung;4::Correct;5::time;5::Difficulty;5::Confidence;5::Answer;5::Description;5::Correct;6::time;6::Difficulty;6::Confidence;6::Answer;6::Description;6::Correct;7::time;7::Difficulty;7::Confidence;7::Answer;7::Description;7::Correct;8::time;8::Difficulty;8::Confidence;8::Answer;8::Beschreibung;8:.Correct;9::time;9::Difficulty;9::Confidence;9::Answer;9::Description;9::Correct;10::time;10::Difficulty;10::Confidence;10::Answer;10::Description;10::Correct;11::time;11::Difficulty;11::Confidence;11::Answer;11::Description;11::Correct;12::time;12::Difficulty;12::Confidence;12::Answer;12::Description;12::Correct;13::time;13::Difficulty;13::Confidence;13::Answer;13::Description;13::Correct;14::time;14::Difficulty;14::Motivation;14::Answer;14::Description;14::Correct;15::time;15::Difficulty;15::Confidence;15::Answer;15::Description;15::Correct;16::time;16::Difficulty;16::Confidence;16::Answer;16::Description;16::Correct;17::time;17::Difficulty;17::Confidence;17::Description;17::Beschreibung;17::Correct;18::time;18::Difficulty;18::Confidence;18::Answer;18::Description;18::Correct;19::time;19::Difficulty;19::Confidence;19::Answer;19::Description;19::Correct;20::time;20::Difficulty;20::Confidence;20::Answer;20::Description;20::Correct;21::time;21::Difficulty;21::Confidence;21::Answer;21::Description;21::Correct;22::time;22::Difficulty;22::Confidence;22::Answer;22::Description;22::Correct;23::time;23::Difficulty;23::Confidence;23::Answer;23::Description;23::Correct;;Summe::correct;(MaximalWert:46)
+peTask;anwtu;55,816;3;3;32;Sie summiert das Produkt aus zwei zahlen von denen eine von 4 bis auf 2 runtergezählt wird.;0;53,433;4;3;"1
+";Sie vergleicht die Anzahl an gleichen Buchstaben in 2 verschieden Strings und gibt die anzahl gleicher buchstaben auf der konsole aus;2;73,804;3;3;"3
+";Sie berechnet den ggt von 2 zahlen und gibt diesen auf der Konsole aus;2;167,618;2;3;5    7    14;Sie nimmt ein int-Array und ordnet die Zahlen nach größe.;2;134,738;3;3;"2
+";Die Methode verscuht (mittels binärer Suche) zu ermitteln an welcher stelle in einem angegebenen int-Array eine best. Zahl steht.;2;73,724;2;2;"1
+3
+6
+10";Die Methode addiert zu einer Zahl eine von 1 bis ansteigende Zahl hinzu und gibt das Ergebniss nach jeder Addition auf der Konsole aus.;2;114,537;3;2;"19
+19
+19";Die Methode durchläuft ein int-Array und gibt nach jeder Erhöhung des Index des Iterator die bisher höchste Zahl aus. ;1;52,5;3;3;8;Diese Methode bestimmt die Quersumme einer Zahl und gibnt sie auf der KONSOLE AUS;2;62,362;3;3;"true
+";Diese Methode berechnet ob eine Zahl eine Primzahl ist und gibt true bzw. false aus wenn sie es ist bzw. nicht ist.;2;42,69;3;3;10;Diese Methode gibt von drei Zahlen die jeweils größte auf der Konsole aus.;2;47,792;3;3;8;Diese Methode berechnet die Potenz einer Zahl , num1 ist die Basis , num2 der Exponent .;2;77,426;2;2;WAHR;Diese Methode gibt aus ob eine best. String ein Annagram ist , also ob es von hinten gelesen genau so aussieht wie wenn man es von vorne liest.;2;29,88;4;3;42;Diese Methode vertauscht die Werte von zwei int vaiablen und ibt dann den Wert der variable var1 auf der Konsole aus.;2;60,897;3;3;olleH;Diese Methode nimmt einen String und verdreht ihn , macht also seinen letzen buchstaben zum ersten usw. Danach wird der String auf der Konsole ausgegeben.;2;397,041;1;2;67  69  73 81;Diese Methode berechnet das Produkt von 2 Matrizen und gibt die Elemente des Produkt dann Zeilenweise aus.;2;11,402;4;4;6;Diese Methode berechnet das arithmetische Mittel zwischen zwei zahlen und gibt dieses dann auf der KOnsole aus.;2;115,25;3;3;"Substring is contained: Java
+Substring is not contained: Pascal";Diese Methode bekommt drei Strings , und checkt dann ob 2 String Substring des dritten sind. Die konsolen ausgabe gibt dann an welche Strings Substrings sind.;2;115,918;2;3;70;Diese Methode bestimmt das kgV von 2 Zahlen und gibt dieses auf der Konsole aus.;2;141,609;2;3;here Are A Bunch Of Words;Diese Methode nimmt einen String und verändert die Anfangsbuchstaben aller Wörter in diesem String auser dem ersten zu großbuchstaben;2;67,261;3;3;"100
+";Diese Methode gibt eine Zahl in binär dartsellung aus.;2;65,506;2;2;4 6 1;Diese Methode tauscht die Elemente eines int-arrays so , dass die erste zahl zur letzten wird und die letzte zur ersten usw.;2;68,505;3;3;4,5;Diese Methode gibt das mittlere Elemten eines Arrays aus , wenn dieses Array eine ungerade anzahl an Elementen hat. Hat es einen gerade anzahl , so wird das arithmetische Mittel der beiden Mittleren zahlen des Arrays ausgegeben.;2;48,895;4;3;"2
+6
+22
+14
+8";Diese Methode verdoppelt die Werte die in einem best. Array gespeichert sind und geben diese dann auf der Konsole aus.;2;;43;
+peTask;EOHHI;37,95;2;0;3;"variablen anlegen, durch while schleife iterieren und variable mit x multiplizieren, bei jedem durchgang x um 1 reduziert
+danach ergebniss ausgeben
+ergebniss: ";0;243,656;2;2;1;"länge von strings ermitteln und variable auf die länge des 
+kurzen strings setzen. dann mit forschleife iterieren wenn zeichen an der stelle des iterators in
+beiden worten gleich: counter +1
+";2;95,599;2;2;3;variablen deklarieren, modulo berechnen, variablen zuweisung tauschen, ausgabe;1;261,189;2;3;"13
+5
+7";"erste forschleife bricht bei ersten verschachtelung ab, da vorgabe nicht erfüllt wird
+zweite forschleife iteriert durch array und printed dieses";0;204,201;2;2;keine ausgabe da nicht in else zweig geht, if zweig trifft zu;array wird angelegt, variablen deklariert, abfrage auf verschiedene fälle, erster trifft zu. keine ausgabe;0;72,246;3;1;"1
+2
+3
+4";variable wird mit for-schleife gefüllt und in jedem durchgang gedruckt;0;108,025;3;2;"19
+
+";schleife läuft länge des arrays-1 durch. result wird array[iterator] zugewiesen, print;1;79,278;;;;;0;163,967;1;1;WAHR;schleife bricht nicht ab da i nicht 11 werden kann;1;65,985;4;3;10;deklarierung der variablen. dann abprüfung der fälle;1;130,394;3;2;"4
+4
+";anlegen der variablen, dann multiplikation so oft wie for-schleife durchlaufen wird.;0;174,443;3;2;"true
+true";i wird bei jedem durchlauf der schleife um 1 erhöht, j um 1 veringert. im String word werden immre zwei zeichen an der stelle i und j verglichen. wenn diese gleich sind -> true, sonst false. false zweig wird nicht erreicht da schleife davor abbricht (word.length/2);1;54,187;3;2;42;"42 ist die antwort auf alle fragen.
+
+variablenzuweisung und anschliessende ausgabe.";2;83,57;3;3;"olleH
+";string word wird in leeren string result umgeschichtet. result wird durchlaufen so lange wie das word lang ist und mit buchstaben vom ende von word gefüllt.;2;166,347;;;"
+";;0;26,096;4;4;6;zuweisung der variablen, berechnung von wert und abspeichern in result, print result;2;118,946;3;3;"substring is contained: Java
+Substring is not contained: pascal";indexof gibt anfangsposition von key zurück. -1 wenn nicht vorhanden. danach apprüfung der fälle;2;114,892;2;1;"Error
+";zuweisung der min und max werte, da modulo 0 nicht zutrifft keine neuzuweisung von result, else zweig trifft zu;0;119,203;;;6;"antwort zur ausgabe ist falsch.
+
+
+
+";0;81,615;2;2;"0
+0
+1
+";solange i größer als 0 ist wird entweder eine 0 (wenn mod2 0 ergibt) oder eine 1  wenn dies nicht zutrifft ausgegeben. bei jedem durchlauf wird i neu gesetzt als i/2;1;500,39;1;0;;;0;74,249;2;1;4,5;else zweig trifft zu. dort berechnung mit den stellen des arrays, ausgabe von b;1;244,174;2;2;"2
+6
+22
+14
+8";verdoppelung aller werte im array, dann durch iterieren und ausgabe.;2;;19;
+peTask;ethal;97,839;3;4;2;Mehrfache Berechnung des Produktes zweier Zahlen;0;56,76;4;4;1;Vergleich der Buchstaben zweier Strings auf Ã?bereinstimmung an selber Stelle;2;122,281;3;3;3;Berechnung des ggT zweier Zahlen;2;129,987;3;3;5 7 14;Sortieren eines Arrays in Aufsteigender Reihenfolge (Bubblesort);2;145,481;2;3;2;Vergleich eines Keys mit Zahlen im Array, bis Ã?bereinstimmung herrscht;2;86,906;3;3;10;Aufsummieren der Zahlen 1 bis 4;2;68,859;3;4;19;Suchen der GrÃ¶Ã?ten Zahl im Array;2;122,008;3;4;8;Quersumme einer Zahl;2;87,433;3;4;WAHR;Erfolglose Suche nach echtem Teiler von 11;2;24,48;4;4;10;Ausgabe der grÃ¶Ã?ten Zahl dreier Zahlen;2;62,977;4;4;8;Berechnung von 2^3;2;105,685;4;4;WAHR;PrÃ?fung auf WÃ¶rter, die vorwÃ?rts und rÃ?ckwÃ?rts gleich sind;2;37,098;4;4;42;Vertauschen zweier Variablenwerte und Ausgabe der ersten;2;62,366;4;4;olleH;Umdrehung der Buchstaben eines Strings (RÃ?ckwÃ?rtslesen);2;514,436;1;2;"46 68
+53 86";Erzeugung eines neuen Arrays aus Berechnungen der Zahlen zweier Arrays;0;17,418;4;4;6;Addition zweier Zahlen und die Division der Summe durch 2;2;76,447;4;3;"Substring is contained: Java
+Substring is not contained: Pascal";Ã?berprÃ?fung zweier Strings ob sie in einem dritten vorkommen;2;82,599;4;4;70;Finden eines Teilers einer Zahl mittels Multiplikation zweier Zahlen;1;287,109;2;0;he ar a bu of wo;ZerplÃ?cken und Zusammensetzen eines Strings;0;73,714;4;4;0 0 1;PrÃ?ft ob Zahlen durch 2 teilbar sind;1;117,56;3;3;6 1 4;Vertauschen zweier Zahlen im Array;1;87,388;4;4;4,5;Addition zweier Zahlen aus einem Array und deren Division durch 2;2;51,465;4;4;2 6 22 14 8;Verdoppeln der Werte der Zahlen im Array;2;;37;
+peTask;lafat;141,864;4;4;"4
+12
+24
+
+";"Erstellt zwei Integer 
+geht in einen Schleife
+multipliziert zu 1 4 (gibt das Ergebnis als Text aus), 
+danach zu 4 3 (gibt das Ergebnis als Text aus), 
+danach zu 12 2 (gibt das Ergebnis als Text aus) 
+und geht dann aus der schleife raus und beendet sich";0;121,631;4;4;1;"Erstellt zwei Strings der Beiden Städte und einen Integer
+
+if-else-Abfrage: die Länge des längsten Städtenamen
+wird für den Integer lenght verwendet.
+
+vergleichen der Buchtaben der Städtenamen mit der 
+Position. Falls diesse übereinstimmt wird der Counter
+um eins erhöht.
+
+danach ausgabe des Counters im Textfeld";2;193,615;3;4;3;Berechnung des ggT;2;169,753;3;4;"5
+7
+14";"Sortieren des Array nach der Größe der Zahlen
+von der Kleinsten zur Größten ";2;181,753;2;3;"2
+";"Dursucht ein geordnetes Array, ob die Keyzahl
+enthalten ist.";2;146,923;3;3;"1
+3
+6
+10";Summiert die Zahlen {0,1,2,...,n};2;193,276;4;4;19;Durchsucht ein ungeordnetes Array nach der größten Zahl;2;105,553;3;4;8;Berechnet die Quersummer einer dezimalen Zahl;2;114,806;3;4;"true
+";"Schaut nach, ob der Integer ""number"" eine Primzahl ist";2;49,874;4;4;"10
+";Gibt die Gößte, dreier eingegebener Zahlen, zurück;2;72,705;3;4;8;"Berechnet die Potenz zur Basis 2 mit dem Exponenten 
+""num2"" (hier im Bsp. 3)";2;103,73;4;4;WAHR;Schaut nach, ob des Wort Achsensymmetrisch ist;2;34,273;4;4;42;Vertauschen von zwei Integern;2;89,089;3;4;olleH;Gibt das Wort spiegelverkehrt aus;2;540,642;1;2; 67 60 48 48;Matrizenprodukt;1;18,388;4;4;6;Durchschnitt zweier Zahlen;2;93,798;3;0;;;0;183,476;3;2;70;Berechnung des Kleinsten gemeinsamen Vielfachem;2;223,38;3;3;"Here Are A Bunch Of Words
+";Schreibt die ersten Buchstaben der Wörter eines Satzes groß;2;131,828;4;4;100;Schreibt eine Dezimal- in eine Binärzahl um;2;121,715;3;2;"4
+6
+1
+";Spiegeln des Arrays;2;107,247;2;1;"4.5
+";"Summiert die beiden mittleren Zahlen und nimmt den 
+Durchschnitt";2;101,627;3;3;Multipliziert jede Zahl des Arrays und gibt diese wieder aus ;"2
+6
+22
+14
+8";2;;41;
+peTask;lrfoi;62,55;3;3;48;"result, das zu Beginn 1 ist, wird mit x, das zu Beginn 4 ist,
+multilpliziert, dann wird x um 1 verringert, und die Funktio
+solange wie x>1 ist, wiederholt. Da x immer verringert wird,
+terminiert die Schleife nach 3 Durchlaeufen.";0;91,697;1;0;Hamburgrg;"Zuerst wird geprueft, ob string1 kürzer als string2 ist, wenn ja
+dann wird length auf die Länge des des ersten
+Strings gesetzt, ansonsten auf die des 2. strings.
+
+Danach wird die for-schleife so oft durchlaufen, wie der 2. string
+Zeichen hat.
+Wenn ein Zeichen bei Index i bei beiden Strings gleich ist,
+wird der Zaehler um 1 erhöht und am Ende
+ ausgegeben. (Und nicht wie in meiner Antwort
+ vorher das Zeichen im ersten String mit dem
+ aus dem 2. String überschrieben.)
+
+";2;178,543;1;4;3;"Zuerst wird geprueft, ob number1 < number2 ist. Wenn ja
+werden die Werte von Variablen vertauscht.
+Dann wird number1 modulo number2 gerechnet und
+temp zugewiesnen. Falls temp nicht null ist,
+bekommt number1 den Wert von number2 und
+number2 wird temp. Nur wenn temp nicht
+Nulll ist, wird die Schleife nochmals durchlaufen.";1;76,035;4;4;14, 5, 7;"In der ersten for-schleife wird i mit 0 initalisiert,
+in der 2. dann j auf i gesetzt.
+Da aber die Bedinung hier j>0 ist, wobei aber j zu
+Beginn schon 0 ist, wird diese nie durchlaufen.
+Am Schluss wird dann einfach das ganze Array ausgegeben.";0;330,83;0;0;5;"Solange index2 grösser gleich Index 1 ist,
+wird die while-Schleife durchlaufen. Hier werden dann
+beide Indexe addiert und deren Summe durch
+2 geteilt und m zugewiesen. 
+Wenn nun der Inhalt von Arrayposition m grösser als Key ist,
+dann wird index2  m-1 zugewiesen, wenn key grösser
+als der andere Wert ist, dann index1 m+1.
+In allen anderen Faelllen, d.h. wenn beide gleich sind.
+wird m ausgegeben und die Schleife abgebrochen.
+";0;71,482;3;2;"10
+";"Es wird immer das aktuelle i zum
+Wert von result dazuaddiert und nach der for-Schleife,
+die 4x durchlaufen wird, ausgegeben";2;36,147;4;4;19;"Die Methode durchläuft das ganze Array
+und wenn der aktuelle Wert grösser als der
+bisherige ist, wird result damit überschreiben.
+Es wird also der grösste Wert im Array ausgegeben";2;184,297;2;3;8;"Solange number nicht 0 ist, läuft die for-Schleife.
+Zurest wird in dieser number mod 10 zum alten Result
+dazuaddiert und dann number durch 10 geteilt.";2;76,584;4;4;WAHR;"Wenn number mod dem Index der for-Schleife,
+der sich von 2 bis 10 bewegt, 0 ist,
+dann wird result auf false gesetzt und die Schleife
+verlassen.
+Da das aber nie der Fall ist, bleibt result auf true.";1;69,061;4;4;10;"Die 3 Zahlen werden verglichen und je nachdem,
+wie der Vergleich ausfaellt, wird dann eine der 3
+ausgeben.";1;79,961;3;2;16;"result bekommt den Wert von num1 zugewiesen.
+In der for-Schleife wird dann result mit num1 multipliziert.
+Da num2 3 ist, wird die for-Schleife 2 mal durchlaufen
+und das Erbebnis ist 8 und nicht 16.";1;78,222;4;4;FALSCH;"j wird Wortlaenge  - 1, also 3 und i wird
+Wortlaenge / 2, also 2.
+Dann wird geprueft, ob die Buchstaben an Position
+2 und 3  (0 indiziert) nicht gleich sind. Da t ungleich o ist,
+wird result auf false gesetzt, die Schleife abgebrochen und ausgegen.";0;60,993;4;4;42;"temp bekommt den Wert von var1 zugewiesen,
+var1 dann den von var2. Die vorletze Zeile ist fuer die 
+Ausgabe nicht mehr relevant.";2;70,916;4;4;olleH;"Die for-Schleife weisst result die Spiegelung von
+word zu.";2;97,371;0;0;;"x und y werden die Laengen der beiden Arrays zugewiesen,
+die wiederrum selber Arrays enthalten.
+x wird also 2 und y 3.
+Danach werden die Werte im 2. Array mit dem aus
+dem ersten multipliziert und zu result dazuaddiert.
+Am Schluss wird dann das 2.dimensionale result-
+Array ausgegeben.";0;21,836;4;4;6;"a und b werden addiert und die Summe dann
+durch 2 geteilt und ausgegeben.";2;129,219;4;4;"Substring is contained: Java
+Substring is not contained: Pascal";"index1 gibt die Stelle in word an, bei der
+key1 gefunden wurde, genau so bei index2 und word.
+Sofern ein Wort nicht enhalten ist, wird index -1.
+Der erste Teilstring ist enhalten, der 2. nicht.";2;197,763;0;1;Error;"Zuerst wird geprueft, welche Zahl die grössere ist,
+max wird somit 10 und min 7.
+In der for-Schleife wird dann das maximum mit dem
+bei 1 startenden Index der for-Schleife multipliziert
+und das Ergebnis modulo dem Minimum gerechnet.
+Wenn das 0 ergibt, dann wird result auf max*i gesetzt und
+die Schleife verlassen.
+Sofern result verändert wurde, dh. nicht mehr -1
+ist, wird dieses ausgegeben, ansonsten Error.";0;90,865;2;3;Here Are A Bunch Of Words;Die ersten Buchstaben werden in Grossbuchstaben umgewandelt.;2;36,497;4;4;10;"Wenn i modulu 2 gerechnet 0 ergibt, wird eine 1 zum
+String dazugetan, ansonsten eine 1.
+Dann wird i halbiert.";0;35,844;4;4;1,6,4;"Da Arraylänge/2 1 ist und 1-1 0 ist, wird die for-Schleife
+nur einmal durchlaufen und nicht wie vorher angenommen,
+gar nicht.
+Der erste und der letzt Wert im Array werden dann
+vertauscht.";0;76,193;4;4;4,5;"Wenn die Arraylaenge mod 2 1 ist,
+damm wird b der Wert im Array, der an der Position Arraylänge/2 ist,
+ansonsten wird b der Wert an Position Arraylänge/2 + 1
++ Position Arraylänge/2.
+Das ist 9, dsa ganze dann durch 2 ist 4.5";2;39,082;4;4;0, 3, 22, 28, 16;"Jeder Wert im Array wird mit dem Index, der bei 0
+startet, multipliziert.";0;;24;
+peTask;lrwer;97,56;2;2;16;"die while-Anweisung wird so oft durchlaufen, solange x>1 ist. 
+Das Ergebnis was in result rauskommt wird anschließend ausgegeben.";0;129,637;2;2;1;"in der if-Anweisung wird zuerst die Länge der beiden Strings festgelegt.
+in der for-Schleife werden die einzelnen Buchstaben der Strings auf die Gleichheit überprüft.
+Wenn es zutrifft, werden die Stellen ausgegeben, die bei den beiden Strings gleich sind. ";2;204,073;2;2;3;"Zuerst werden die beiden if-Anweisungen überprüft.
+In dem Fall stimmt die 2. if-Anweisung. 
+Dann wird überprüft, ob temp ungleich 0 ist. In diesem Fall stimmt es. So jetzt werden
+die Zahlen anders zugeordnet.";1;117,184;2;2;7, 5, 14;Hier werden die Positionen der Zahlen vertauscht. ;0;224,618;1;2;3;"Hier wird die Zahl aus dem array ausgegeben, die vorher durch
+den int m berechnet worden ist.";0;78,226;2;2;10;"die for-Schleife wird solange ausgeführt bis i<= 4 ist. Und
+solange wird das Ergebnis result ermittelt";2;124,785;2;2;19, 5, 17;das result gibt alle Zahlen des Arrays ab dem Index 1 aus.;0;85,534;2;2;2;Addition zweier Zahlen, wobei man vorher das Modulo der zweiten Zahl berechnen muss.;0;137,738;1;2;WAHR;die vergleicht den Restwert, falls es stimmt wird ein boolean-Wert ausgegeben;1;55,173;2;2;10;"Zahlenvergleich. Alle if-anweisungen überprüfen und falls es zutrifft, gibt das Programm
+den jeweiligen Wert aus.";1;103,331;2;2;8;Produkt zweier Zahlen berechnen;1;79,22;2;2;WAHR;"hier werden die Buchstaben auf die Gleichheit verglichen
+der 1. mit dem Letzten, der 2. mit dem Vorletzten";2;84,083;2;2;42;Vertauschen zweier Zahlen mit Hilfe von temp;2;94,243;2;2;olleh;der String word wird umgedreht;2;58,747;0;0;;;0;13,444;2;2;6;Zuerst wird die Addition zweier Zahlen ausgeführt und danach durch 2 dividiert;2;180,812;2;2;"Substring is not contained: Java
+Substring is contained: Pascal";"die Strings key1 und key2 werden mit dem String word verglichen.
+hier wird überprüft, ob das Wort in dem String word vorkommt";2;45,457;0;0;;;0;91,059;0;0;;;0;120,752;2;2;0;"die while-Schleife wird so oft ausgeführt solange i > 0 ist. Somit ist das
+Ergebnis 010";0;33,818;0;0;;;0;76,286;2;2;4;Ausgabe der Zahl die an der i-ten Stelle des arrays liegt;0;164,751;2;2;14, 22, 6, 2;die Zahlen vom array bis zum Index 3 werden verdoppelt und anschließend rückwärts aufgezählt;1;;19;
+peTask;nipnt;137,981;2;3;"X wird rekursiv bis 1 runtergezählt und ausgegeben.
+(Ausgabe:4 3 2 1)";"erst werden der Start und das Ende deklariert und anschließen mit einer while-Schleife rekursiv runtergezählt,solange x > 1 ist. 
+Ausgabe ist : 4 12 24
+result wir immer mit dem neuen ergebnis gespeichert";0;195,098;2;3;vergleicht von zwei Wörtern welches länger ist  und durchsucht dann  ob die zwei Wörter an der gleiche Stelle im Wort den gleichen Buchstaben hat.;vergleicht die zwei Wörter der Länge nach und zählt anschließend das längere durch und vergleicht ob der Buchstabe an der gleich stelle vom Wort gleich ist dem dem anderen und gibt des mit der Counter welcher jedesmal wenn es übereinstimmt eins größer wird;2;137,873;2;2;"3 
+";vergleicht die Zahlen welche größer ist und vertausch die Zahlen oder macht Modula.wenn temp immer noch ungleich 0 ist,werden die Zahlen vertauscht.Das ganz wird solange wiederholt und ausgegeben bis temp =0 ist.;1;113,708;0;1;"keine Ahnung
+";"dopplte forschleife ,wird aber nicht funktionieren da j gleich 0 gesetz wird.
+wird nur unten die ausgabe ausgeführt
+";0;352,546;1;1;"keine Ahnung
+";gleicht immer zwei indexe und schaut on es größer oder kleiner ist als key.falls es gleich ist,wird es ausgegeben;0;90,85;2;2;"1 3 6 10
+";rechnet immer nacheinander zwei zahlen zusammen und macht so die Fakultät;1;106,102;2;3;19 5 17;sucht aus dem Array die größte Zahl ;2;125,772;0;0;"3  5 8 ..
+	";keine ahnung;0;116,544;3;3;true,true.true,true,true,true,true,true,true;zäht solange raus bis zur number und schaut ob teilbar ist ohne rest und bricht dann ab;2;42,349;3;3;10;schaut welche der Zahl die größte ist;2;63,247;2;3;4 8;nimmt immer das ergbnis mal 2 bis i gleich num2;1;216,964;2;3;true true;vergleicht die Buchstaben von links und rechts und wenn sie nicht gleich sind wird false ausgegeben;2;53,828;3;3;"42
+";var1 wird mit var2 überschrieben.somt wird 42 ausgegeben;2;63,989;3;3;olleH;wird rückwerts in ein neues Array geschrieben;2;438,337;0;0;30 56;keine ahnung;0;11,425;3;4;6;zählt a und b zusammen und twilt sie dann durch 2;2;164,451;2;3;"Substring is contained : ""Java""
+Substring is not contained: ""Pascal""";überprüft ob key1 oder key2 in word  vorkommt;2;248,793;1;1;Error;schaut erst welche max und min ist und schaut welche teilbar ist ohne Rest;0;97,809;1;1;"Here Are A Bunch Of Words
+";macht nach jeder leerzeile den buchstaben groß;2;79,969;2;3;0 0 1;wenn i durch 2 teilbar ist wird das so oft wiederholt bis es nicht mehr geht.0 zeigt an ,dass es geht und 1 nicht;0;13,492;0;0;keine Ahnug;;0;32,055;0;0;"keine Ahnung
+";;0;50,05;3;3;2 6 22 14 8 ;verdopplet jedes Element von dem Array;2;;25;
+peTask;aable;28,807;3;4;24;Berechnung der Multiplikation über n-Elemente in der Form n*(n-1);1;62,033;2;4;1;Es vergleicht zwei Strigns und erhöht für jeden gleichen Buchstaben an der gleichen Stelle den Counter.;2;124,833;2;2;3;größter gemeinsamer Teiler number1,number2;2;92,594;2;3;"5
+7
+14
+";Bubblesort;2;284,241;1;1;2;Sucht die position des Elements key;2;25,428;4;4;10;Summe über n Elemente;2;26,585;3;3;19;größtes Element im Array;2;148,929;1;1;8;Quersumme über die Zahl;2;33,538;4;3;WAHR;Prüft ob eine Zahl prim ist;2;17,396;4;3;10;Das größte dreier Elemente;2;70,818;2;2;4;Produkt über eine Zahlenreihe von num1 bis num2;0;20,06;4;4;WAHR;Prüft ob word ein Palidrom ist;2;16,325;4;4;42;Tauscht zwei Variabeln;2;35,324;3;3;olleH;Umkehrung eines Strings;2;324,97;2;0;"20 36
+28 40";Mathematische Operation auf zwei Matrizen;0;17,298;4;4;6;Mittelwert zweier Werte;2;38,725;4;4;"Substring is contained: Java
+Substring is not contained: Pascal";Prüfung ob String in einem String enthalten ist;2;117,291;2;2;70;Prüft in welchen Vielfachen der größeren Zahl die kleiner Vorhanden ist;2;53,445;4;4;Here Are A Bunch Of Words;In einem String wird jeweils der erste Buchstabe eines Wortes groß geSchrieben;2;45,356;3;3;100;Verwandelt einen String in Binärcodierung;2;57,411;3;3;4 6 1;"""Spiegelung"" eines Arrays am mittleren Element (mit vertauschen der Werte)";2;77,637;2;3;3,5;Wert des mittleren Elementes bei ungeraden Elementanzahl. Ansonsten Mittelwert über die beiden Mittleren;1;13,516;3;3;2 6 22 14 8;Multiplikation aller Arrayelemente mit 2;2;;40;
+peTask;aasac;89,007;2;2;32;Berechnet die Fakultät von x;1;112,191;2;2;1;Testet ob in 2 Wörtern an gleicher Stelle gleiche Buchstaben stehen, und gibt aus wie oft dies der Fall ist.;2;96,202;2;2;3;Berechnet den Modulo 2er Zahlen;1;176,488;0;0;"5
+";;0;135,124;0;0;2;;1;52,673;3;1;10;n wird aufsummiert;2;123,946;3;1;"19
+";Es wird die größte Zahl in einem Array gesucht und ausgegeben.;2;157,904;2;1;8;summiert modulo ergebnisse einer Zahl auf;2;59,153;3;3;WAHR;testet ob die Zahl eine Primzahl ist und gibt dann true für Primzahl und false für keine Primzahl aus;2;61,496;4;3;10;Sucht von 3 Zahlen die Größte und gibt diese dann aus;2;119,46;3;2;8;Es wird die 3er Potenz von Zahl1 ausgegeben;2;154,198;3;2;WAHR;testet auf palindrom;2;83,877;3;3;42;Vertauscht 2 int werte;2;92,842;4;3;olleH;Das EingabeWort wird von hinten gelesen Ausgegeben.;2;421,299;0;0;5,4;;0;53,321;4;3;6;Addiert 2 Zahlen und halbiert das Ergebniss;2;137,487;2;2;"Substring is contained: Java
+Substring is not contained: Pascal";Testet ob ein bestimmtest Wort in einem String vorkommt.;2;58,637;1;0;Error;;0;109,122;0;0;6;;0;64,781;2;1;0;;0;99,129;1;1;4;;0;72,929;2;1;2,5;;0;80,873;2;1;"1
+3
+11
+7
+4";Gibt nacheinander jede im Array gespeicherte Zahl aus;0;;27;
+peTask;AOMIL;85,862;3;3;Fakultaet von 4 berechnen;Fakultaet berechnen;1;135,812;2;3;1;"Abzaehlen von gleichen Buchstaben an der selben 
+Position in zwei Woertern";2;118,239;1;2;3;;1;186,949;2;3;5 7 14;Sortieren eines Arrays;2;193,08;2;3;2;Psition eines Wertes in einem Array suchen;2;81,118;3;3;"10
+";Summe der Zahlen von 1 bis 4;2;50,122;3;3;19;Groeste Zahl in einem Array suchen;2;108,075;2;3;8;Summe der Ziffern einer Zahl;2;35,86;3;4;FALSCH;Ueberpruefung einer Zahl auf Prim;2;28,295;3;3;10;Ausgabe der groessten Zahl von drei Zahlen;2;92,015;3;3;8;Potenz num1^num2;2;41,592;3;3;WAHR;Untersuchen eines Wortes auf Palindrom;2;30,853;3;3;42;Vertauschen zweier Variablen;2;46,524;3;3;olleH;Umdrehen eines Wortes;2;134,89;3;2;Matrizenmultiplikation;Matrizenmultiplikation;1;16,048;4;3;6;Durchschnitt zweier Zahlen;2;190,206;3;2;"Substring is contained: 15
+";Pruefen, ob ein Wort in einem String enthalten ist;1;95,727;2;3;70;das kleinste gemeinsame Vielfache zweier Zahlen berechenen;2;89,791;3;3;Here Are A Bunch Of Words;Den ersten Buchstaben jedes Wortes in einen Grossbuchstaben umwandeln;2;33,654;4;4;100;Umwandeln einer Zahl in ihre Binaerdarstellung;2;126,155;2;0;4 6 1;Umdregen eines Arrays;2;65,612;;0;4,5;;1;40,842;3;3;2,6,22,14,8;Verdoppeln der Werte im Array;2;;41;
+peTask;atdvw;100,71;3;3;24;"Erst werden 2 Variablen erstellt, dann wird eine
+while Schleife so oft durchlaufen wie x größer als
+1 ist. Innerhalb der Schleife wird das Ergebnis
+jeweils mit x multipliziert und danach 1 von x
+abgezogen. Wenn Schleife nicht mehr durchlaufen
+wird, wird nur noch das Ergebnis ""result"" ausgegeben.";1;385,435;2;2;1;"Zuerst werden zwei Strings auf deren Länge
+vergleichen, dann wird geschaut ob die beiden
+Strings Buchstaben an den gleichen Index-
+werten haben, ist dies der Fall, wird der Zähler
+um 1 erhöht.";2;231,631;3;3;3;"Erst wird Zahl1 und Zahl2 verglichen, erster
+if-Block wird ausgelassen. Temp- Wert wird mit 3
+belegt, so wird 2. if-Block ausgeführt,
+Zahlenbelegungen werden verändert.
+
+Beim zweiten Durchlauf der do while Schleife wird
+dann abgebrochen da temp = 0, dann AUsgabe der 
+2. Zahl.";1;632,541;1;1;14, 5, 7;"- Array mit 3 Feldern anlegen
+- Zählschleife wird nicht durchlaufen da i kleiner
+als Länge vom Array
+- Ausgabe des Arrays mit Zählschleife";0;635,446;1;1;;"Mehrmals eine verschachtelte while/ if- Schleife
+durchlaufen um m zu bestimmen.";0;360,078;3;3;10;"Schleife durchlaufen, bei jedem Durchlauf
+Zählvariable auf Ergebnis aufaddieren, nach
+Abbruch Ergebnis ausgeben.";2;265,863;0;4;42;"Verschachtelte for/ if Schleife durchlaufen um
+result Variable zu bestimmen, dann Ausgabe
+Ergebnis.";0;67,778;0;0;42;;0;1,54;0;0;;;0;0,802;0;0;;;0;0,723;0;0;;;0;0,732;0;0;;;0;52,611;3;3;42;Werte vertauschen.;2;49,845;0;0;;;0;2,182;0;0;;;0;20,652;3;3;6;"Zahlen addieren, Ergebnis teilen und dann
+Ausgabe.";2;177,716;3;3;"Substring is contained: Java.
+Substring is not contained: Pascal.";Strings durchsuchen.;2;2,115;0;0;;;0;2,258;0;0;;;0;109,443;3;3;1;Zeichenkette aus Ints bilden und ausgeben.;0;4,595;0;0;42;;0;3,525;0;0;42;;0;2,917;0;0;42;;0;;12;
+peTask;eibig;54,376;3;3;1;"AUSGABE = 24!! falsch eingetippt sorry!
+durch eine rekursion wird das produkt von 4 mal 3 mal 2 mal 1 
+also 4Fakultät ausgerechnet und dann ausgegeben.";1;107,601;3;3;1;"In der methode werden zwei Strings mit städtenamen eingespeichert.
+dann wird die länge des längeren wortes als vergleichswert gespeichert
+dann werden die beiden worte verglichen ob sie an der gleichen stelle im wort die gleichen buchstaben haben
+am ende wird die zahl der gleichen buchstaben an der gleichen stelle im wort ausgegeben";2;281,514;2;2;93;die methode teilt zwei zahlen mit rest, gibt das ergebnis aus und schaut ob die eine größer der anderen ist damit das modulo funktioniert das macht es so lange bis kein rest mehr da ist, die kleinere zahl wird jeweil ohne leerzeichen ausgegeben.;0;143,488;2;2;{7, 5, 14};die methode dreht ein array um und gibt das umgedrehte array aus.;0;351,363;1;0;6;methode findet die mitte des arrays;0;108,5;3;3;13610;methode addiert die zahlen von 1 bis 4 und gibt die zwischenergebnisse aus;2;112,201;3;3;19;gibt den höchsten wert im array aus;2;225,507;1;0;5;auf zwei zahlen wird einmal die summe beider modulo 10 gerechnet und die 1 zahl ganzzahlig geteilt das ganze rekursiv bis bei der ganzzahligen teilung das ergebnis null wird dann wird die zwiete zahl ausgegegben;0;125,411;1;0;WAHR;;1;109,923;3;3;"10
+";gibt die größte dreier zahlen aus;2;103,803;2;3;8;die methode rechnet 2?(2 hoch 3);2;63,78;2;0;WAHR;;1;40,252;3;3;42;bekommt 2 zahlen und vertauscht sie;2;76,963;3;3;olleH;dreht ein wort das es bekommt um;2;89,355;1;0;...;bekommt zwei arrays macht eine berechnung auf deren inhalt und gibt die ergebnisse in einem neuen array aus;0;13,89;3;3;6;bekommt zwei zahlen und berechnet die hälfte der summe;2;24,284;0;0;...;???;0;188,917;3;3;70;berechnet das kleinste gemneinsame vielfache;2;46,918;1;0;...;append kenn ich ned;0;91,74;2;0;100;?;1;51,621;2;1;"6
+1
+4";;0;45,381;2;0;...;;0;63,804;3;3;"2
+6
+22
+14
+8";verdoppelt die werte in einem gegebenen array;2;;24;
+peTask;ELPHL;41,042;3;4;24;FakultÃ?t einer Zahl;1;85,78;3;4;1;Ã?bereinstimmung von 2 WÃ¶rtern;2;83,77;2;4;3;GrÃ¶Ã?ter gemeinsamer Teiler;2;105,751;2;4;5 7 14;Sortiert das Array;2;107,761;2;4;2;Suche einer Zahl aus einem Array durch BinÃ?rsuche;2;59,751;3;4;10;Summe von i = 1 bis zu einer Zahl n;2;51,672;3;4;19;GrÃ¶Ã?te Zahl eines Arrays;2;65,725;3;4;8;Quersumme;2;45,28;4;4;WAHR;Liefert true, falls Primzahl, sonst false;2;32,921;4;4;10;Die grÃ¶Ã?te der 3 Zahlen;2;79,051;3;4;8;Potenz;2;58,44;3;4;WAHR;Liefert zurÃ?ck, ob Palindrom oder nicht;2;42,997;4;4;42;Vertauscht die Zahlen;2;48,82;3;4;olleH;Gibt das gespiegelte Wort aus;2;346,969;2;3;" 67 69
+ 73 81";Berechnet das Matrizenprodukt;2;15,72;4;4;6;Den Durchschnitt zweier Zahlen;2;83,688;3;4;"Substring is contained: Java
+Substring is not contained: Pascal";PrÃ?ft bei 2 WÃ¶rtern, ob diese im String enthalten sind;2;173,875;3;4;70;kleinste gemeinsame Vielfache;2;435,344;1;3;Here Are A Bunch Of Words;Schreibt jeden ersten Buchstaben eines Wortes groÃ?;2;92,016;3;4;100;Berechnet die binÃ?re Darstellung;2;90,337;3;3;461;Vertauscht die ersten mit den letzten Elementen des Arrays;2;111,307;3;4;4,5;Berechnet den Durchschnitt der mittleren Werte des Arrays.;2;59,281;4;4;2622148;Verdoppelt das Array und gibt es hinterher aus;2;;45;
+peTask;EOKAR;88,788;4;4;Berechnet die Fakultät von x. In dem Fall: 4! = 24 ;Fakultät von x.;1;87,792;4;4;Es wird 1 ausgegeben;Bestimmt die gleichen Buchstaben von zwei Strings.;2;120,39;4;4;3 wird ausgegeben;Kleinster gemeinsamer Teiler;2;154,821;3;4;5 7 14;Sortiert ein Array, wobei das kleinste Element an der vordersten Stelle steht;2;216,421;3;4;2;Gibt die Position von key im Array an.;2;42,828;4;4;10;Summiert die Zahlen von 1 bis n.;2;53,167;4;4;19;Gibt das größte Elemet eines Arrays aus.;2;143,638;;;8;;1;55,785;4;4;WAHR;Testet, ob eine Zahl Prim ist.;2;24,616;4;4;10;Gibt die Größte von 3 Zahlen an.;2;69,547;4;4;8;Potenz zweier Zahlen berechnen;2;38,932;4;4;WAHR;Geprüft, ob ein Wort ein vorwärts und rückwärts identisch ist;2;29,814;4;4;42;Die Werte zweier Varibalen werden getauscht;2;35,687;4;4;olleH;Ein String wird invertiert;2;302,713;4;3; 67 69 73 81;Produkt zweier Matrizen;2;22,74;4;4;6;Mittelwert zweier Zahlen;2;90,554;4;4;"""Substring is contained: Java"" 
+""Substring is not contained: Pascal""";Testet, ob ein Wort in einem Satz enthalten ist.;2;131,18;3;3;700;;0;161,813;3;3;Here Are A Bunch Of Words;Lässt jedes Wort mit einem Großbuchstaben beginnen;2;55,188;4;4;100;Rechnet eine Dezimalzahl in eine Binärzahl um.;2;64,387;4;4;4 6 1;Spiegelt ein Array.;2;87,149;3;3;4,5;Mittelwert eines Arrays berechnen ;2;34,526;4;4;2 6 22 14 8;Multipliziert jeden Eintrag eines Arrays mit dem Wert 2;2;;42;
+peTask;eomhi;30,399;4;4;24;Die methode berechnet die multiplikation von 4*3*2;1;80,538;4;4;1;"Die methode sucht die Anzahl der gleichen
+buchstaben an den gleichen Stellen in zwei Strings";2;83,88;4;4;3;"Die methode berechnet den größten gemeinsamen Teiler
+zweier zahlen.";2;154,273;4;4;"5
+7
+14";Die methode ordnet die zahlen aufsteigen;2;247,79;2;4;2;"Die methode sucht den index an dem der Schlüssel abgeschspeichert ist
+mit binärsuche";2;34,144;4;4;10;Die methode summiert die zahlen von 1 bis n (hier 4) auf;2;40,492;4;4;19;Die methode sucht das maximum aus einem int Array;2;61,15;4;4;8;die methode rechnet die Reste der divsion der zahl durch 10 zusammen;2;39,117;4;4;WAHR;"Die methode überprüft ob eine zahl (hier 11) eine
+primzahl ist";2;29,904;4;4;10;"diese methode sucht den größten wert aus drei
+int variablen";2;44,097;4;4;8;"diese methode potenziert num2-mal num1 also hier
+2^3";2;44,576;4;4;WAHR;"diese methode überprüft ob man ein Wort von vorne
+und von hinten lesen kann";2;17,284;4;4;42;diese methode vertauscht die werte zweier variablen;2;31,872;4;4;olleH;diese methode dreht einen String um;2;481,057;2;3; 67 69 73 81;die funktion führt eine matrixmultiplikation durch;2;16,991;4;4;6;;1;62,189;4;4;"Substring is contained: Java
+Substring is not contained: Pascal";;1;100,857;4;4;70;"diese methode sucht das kleinste gemeinsame vielfache
+zweier zahlen";2;88,552;4;4;Here Are A Bunch Of Words;Die methode macht die Anfangsbuchstaben aller Wörter groß;2;112,124;4;4;100;"die methode berechnet ob die zahl und jeweils immer ihre
+hälfte gerade ist";2;117,049;4;4;"4
+6
+1";Diese methode spiegelt das array am mittleren index;2;95,497;4;0;7;"Die methode gibt 4 oder 5 (ich glaube 5) zurück
+in der vorherigen eingabe habe ich eine Klammer übersehen
+die methode gibt den mittelwert der zwei mittleren zahlen des sortierten
+arrays zurück";1;51,398;4;4;"2
+6
+22
+14
+8";die methode multipliziert jedes feld im array mit 2;2;;42;
+peTask;hiaan;55,542;3;4;24;"4*3*2
+3-facher Schleifendurchlauf";1;65,965;3;4;1;Überprüfung wie viele Buchstaben von 2 Strings gleich sind;2;105,327;2;3;0;-;0;96,344;3;3;5715;Sortierung der Zahlen von kleinster bis größter Zahl;2;93,618;3;2;5;Gibt es die Zahl key in dem array?;1;58,976;3;4;6;Summe der Zahlen 1-3;1;27,89;4;4;19;Suche größte Zahl im array;2;124,083;2;2;8;Summe aus 1/10 von number % 10 solange number nicht 0;2;99,002;3;4;WAHR;Ist number eine Primzahl?;2;41,314;4;4;10;Bestimmung der größten Zahl.;2;85,002;3;3;8;Berechnung von num1 ^ num2;2;26,692;4;4;WAHR;Suche nach Palindrom;2;25,912;4;4;42;Vertausche Werte von 2 Variablen;2;26,157;4;4;olleH;Bestimme reverseString;2;283,092;0;0;??;?;0;19,437;4;4;6;Durchschnitt zweier Zahlen berechnen;2;119,929;3;3;"Substring is contained: Java
+Substring is not contained: Pascal";Ist key im als Teilstring im Wort word enthalten?;2;90,548;2;2;70;Ist number2 durch number1 teilbar ohne Rest?;1;192,184;2;2;Here Are A Bunch Of Words;Schreibe jeden Anfangsbuchstaben eines jeden Wortes im String groß.;2;104,65;3;4;100;Darstellung einer Zahl in Binärdarstellung;2;37,21;3;4;461;Umdrehung der Zahlenreihenfolge im array;2;85,617;2;3;9;Wenn das array ungerade ist, gebe die mittlerste Zahl aus, sonst addiere die 2 mittleren Zahlen und gebe sie aus.;1;48,923;4;4;2622148;Verdopple die Zahlen im array;2;;37;
+peTask;iimar;144,471;3;4;24;brechnet produkt, bis abbruchbedingung erreicht ist;1;172,748;3;4;1;überprüft anzahl gleicher buchstaben, zweier strings an der selben stelle;2;238,875;3;2;3;brechnet den ggt zweier zahlen;2;308,706;3;3;"5
+7
+14";sortiert array aufsteigend;2;307,851;2;1;0;;0;127,26;3;3;10;addiert zahlen;2;37,916;4;4;19;gibt die größte zahl aus;2;163,637;1;0;10;;0;62,497;4;4;FALSCH;überprüft, ob die zahl eine primzahl ist;2;96,835;4;4;10;gibt größte zahl aus;2;81,924;4;4;8;num1^num2;2;67,612;4;4;WAHR;überprüft ob wort ein palindrom ist;2;28,491;4;4;42;vertauscht var1 und var2;2;91,911;4;4;Hello;Konkatenation zweier strings;0;318,571;2;3;...;ergebniss der matritzenmultiplikation von array1 und array2;1;38,339;4;4;6;durchschnittlicher wert von a und b;2;114,499;4;4;"Substring is contained: Java
+Substring is not contained: Pascal";gibt aus ob substring enthalten sind;2;360,474;4;3;70;liefert ggt;2;148,728;1;1;;;0;66,844;4;4;100;i als binärzahl;2;60,867;1;1;;;0;35,134;1;1;;;0;47,9;4;4;"1
+6
+22
+14
+8";Verdoppelt jeden eintrag in array;2;;32;
+peTask;lrpti;42,207;3;3;24;eine Variable in einer Schleife mit kleiner werdenden Werten multiplizieren;1;74,18;2;3;1;zwei Strings vergleichen;1;92,208;3;3;3;Rest zweier Zahlen berechnen, der ersten den Wert der zweiten zuordnen und der zweiten den Rest -> bis Rest = 0;1;229,317;1;1;7514;das Array umdrehen;0;171,599;1;2;2;"""key"" in ""array"" suchen";2;47,433;2;3;10;"""result"" um größer werdende Werte (von 0 bis 4) erhöhen";1;41,283;3;3;2;kleinsten Wert in Zahlenreihe suchen;0;126,003;2;2;5;Zahl durch 10 teilen bis die Zahl 0 ist und den Rest jeder Division speichern (und ausgeben);0;79,893;3;3;WAHR;prüfen ob eine Zahl prim ist;2;33,401;4;4;10;größte von drei Zahlen bestimmen;2;45,281;3;3;8;3. Ergebnis des 2-er Einmaleins berechnen;1;35,858;4;4;WAHR;bestimmt, ob ein Wort ein Palindrom ist;2;19,018;4;4;42;die Werte zweier Variablen tauschen;2;29,487;4;4;olleH;Wort rückwärts ausgeben;2;557,623;0;0; 67 82 69 73;zwei Matrizen lustig multiplizieren;1;15,207;4;4;6;Hälfte der Summe zweier Werte;2;73,842;2;2;"Substring is contained: Java
+Substring is not contained: Pascal";findet heraus, ob eine Zeichenkette in einer anderen enthalten ist;2;143,443;2;3;70;errechnet kleinsten gemeinsamen Nenner zweier Zahlen;2;154,969;2;1;Here Are A Bunch Of Words;Wörter in einer Zeichenkette groß schreiben;2;54,21;3;3;1010;Zahl in binär ausgeben;1;98,261;3;3;"4
+6
+1
+";Array umdrehen;2;95,984;3;3;4,5;Median errechnen;2;39,556;4;4;"2
+6
+22
+14
+8
+";alle Werte im Array verdoppeln;2;;33;
+peTask;ondac;59,661;4;4;24;In einer Schleifes das Produkt zweier Zahlen berechnen;1;121,578;3;4;1;Prüft gleichheit zweier Strings auf eine vorgegeben Länge;2;128,774;3;4;3;Mudulo zweier Zahlen behält die kleinere und rechnet erneut bis die eine Zahl eine Vielfacheder anderen ist;1;174,424;3;4;5714;Vergleicht die Größem von Zahlen im Array und tauscht diese ggf. aus;2;168,864;3;4;5;;0;52,62;4;4;12;;0;100,23;4;4;19;Gibt den größten Wert des Arrays aus;2;99,698;2;3;8;"summiert das ergegbnis mit dem mudulo einer anderen Zahl 
+die danach durch 10 dividiert wird.";2;58,896;4;4;"true
+";"Addiert immer eins zu i und prüft ob es sich restlos duch 11 teilen lässt.
+Falls ja gebe false aus sonst true";2;40,559;4;4;"10
+";Ermittelt die Größte der drei Zahlen;2;57,73;4;4;8;Produkt zweier Zahlen wobei sich ein Faktor ändert.;1;73,253;3;4;WAHR;"Prüft ob der erste Buchstabe eines Wortes gleich
+dem letzten Buchstaben, der zweite gleich dem
+Vorletzten usw (Palimdrom)";2;42,639;4;4;42;Tauscht die Werte zweier Variablen;2;41,403;4;4;olleH;Gibt den String in umgekehrter Reihenfolge aus;2;719,483;0;1;"46  53 9
+68 84 14
+78 62 15";Mulipliziert zwei Matrizen miteinander;1;20,373;4;4;6;addiert wei Zahlen und teilt dann durch 2;2;146,674;3;3;"Substring is contained: Java
+Substring is not contained: Pascal";Prüft ob ein Wort in einem String enthalen ist;2;94,41;3;3;"70
+";"bestimmt das max und min zweier Zahlen.
+Prüft dann ob die Größere zahl mult. mit einer anderen sich restlos durch die andere teilen lääst";1;268,427;2;3;here Are A Bunch Of Words;"Nimmt nach dem ersten wort den ersten buchstaben jedes
+wortes und schreibt ihn groß";2;67,236;3;3;1;"nimmt eine Zahl prüft ob vielfaches von 2 ist falls ja
+hängt es eine 0 an den String sonst 1";0;111,221;3;3;"461
+";Tauscht das erste Element gegen das Letzte;2;96,349;2;3;4;sortiert das array und adiert das mittlere element mit seinem Vorgänger;0;49,158;4;4;"2
+6
+22
+14
+8";Multipliziert jedes Element mit 2;2;;33;
+peTask;orHhp;111,687;2;4;24;Berechnet: 1*4*3*2 und gibt das Ergebnis aus.;1;88,939;3;4;1;Zählt an wie vielen Stellen zwei Strings übereinstimmen, indem es beide Strings von links nach rechts vergleicht, bis ein String zu Ende ist.;2;87,921;2;1;3;Findet den größten gemeinsamen Teiler von zwei Zahlen, in diesem Fall von 12 und 9 und gibt diese aus.;2;135,738;2;2;"4
+7
+14";Sortiert ein Array aufsteigend und gibt dann den Inhalt des sortierten Arrays aus.;2;64,128;4;4;2;Sucht eine Zahl in einem sortieten Array mittels binärer Suche.;2;71,352;3;4;10;Addiert 0, 1, 2, 3 und 4 auf und gibt das Ergebnis aus.;2;17,522;4;4;19;Bestimmt den maximalen Wert in einem Array.;2;80,704;3;3;8;Bestimmt die Quersumme einer Zahl (323) und gibt diese aus.;2;88,544;4;4;WAHR;Testet ob eine Nummer (11) eine Primzahl ist und gibt das Ergebnis (true/false) aus.;2;45,608;4;4;10;Bestimmt die größte von drei Zahlen und gibt diese aus.;2;111,264;2;4;8;Poteniert eine Basis (2) mit einem Exponenten (3) und gibt das Ergebnis aus.;2;37,879;4;4;WAHR;Testet ob ein String ein Palindrom ist und gibt das Ergebnis aus.;2;34,937;4;3;42;Tauscht den Inhalt von zwei Variablen gegeneinander aus und gibt eine der Variablen aus.;2;20,11;4;4;olleH;Kehrt einen String um.;2;161,748;4;4;Das Ergebnis der Matrizenmultiplikation von ((5,6,7),(4,8,9)) und ((6,4),(5,7),(1,1));Multipliziert zwei Matrizen und gibt das Ergebnis aus.;1;20,834;4;4;6;Addiert zwei Zahlen, teilt die Summe durch zwei und gibt das Ergebnis aus.;2;55,396;4;4;"Substring is contained: Java
+Substring is not conained: Pascal";Testen ob zwei Teilstrings in einem lange String vorkommen und gibt das Ergebnis für jeden Teilstring aus.;2;107,315;3;4;70;Bestimmt das kleinste gemeinsame Vielfache zweier Zahlen und gibt es aus.;2;88,025;3;3;Here Are A Bunch Of Words ;Wandelt alle Anfangsbuchstaben der Wörter in einem String in Großbuchstaben um und gibt den String aus.;2;29,88;4;4;100;Gibt die Binärdarstellung einer Zahl aus.;2;67,208;4;3;"4
+6
+1";Kehrt ein Array um und gibt das Ergebnis aus.;2;75,968;4;4;3,5;Bestimmt den Median eines Arrays und gibt diesen aus.;1;48,409;4;4;"2
+6
+22
+14
+8";Multipliziert jeden Eintrag eines Arrays mit zwei und gibt das resultierende Array aus.;2;;43;
+peTask;ORSOS;55,737;4;4;24;Sie multipliziert die zahlen von 4 bis 2 mit einander;1;107,219;4;4;1;"Sie vergleicht die Buchstaben beider Strings, bei übereinstimmung wird der counter um 1 
+ erhöht";2;149,458;3;4;3;Sie berechnet den kleinsten gemeinsamen Teiler;2;105,07;3;4;"5 7 14
+";Bubble sort aufsteigende sortierung;2;310,59;2;3;2;Er sucht den Key in einen Sortierten array;2;33,884;4;4;10;adiert alle zahlen von 0 bis n auf;2;34,069;4;4;19;Er sucht das Maximum im array;2;158,398;3;3;8;keine ahnung;1;43,363;4;4;WAHR;Testet ob number eine primzahl ist;2;62,301;4;4;10;gibt die größte der 3 zahlen aus;2;32,516;4;4;8;die potenz von num1 ^ num2;2;19,725;4;4;WAHR;schaut ob word ein palindrom ist;2;34,853;4;4;42;Tauscht var1 mit var2 und gibt dann var1 aus (was ja var2 ist);2;26,292;4;4;olleH;Dreht das wort word um;2;216,275;2;4; 67 69 73 72;Matrix Multiplikation;1;21,542;4;4;6;;1;112,392;4;4;"Substring is contained: 15
+Substring is not contained: -1";Schaut ob key1 und key2 im word enthalten sind und wo sie das erste mal auftreffen;1;109,935;3;4;Error;schaut ob number1 ein vielfaches von number2 ist und auch welches;0;87,973;4;4;Here Are A Bunch Of Words;Macht den ersten buchstabe jedes wortes zu Uppercase;2;98,611;4;4;100;wandelt die zahl i in Binär darstellung um;2;89,326;4;4;"4 6 1
+";Spiegelt das Array in der Mitte;2;115,974;3;4;4,5;nimmt den mittelwert der beiden mittleren Zalhen des Sortierten arrays;2;21,211;4;4;2 6 22 14 8;nimmt jedne eintrag des arrays mit 2 mal;2;;39;
+peTask;rgsel;84,87;3;4;24;"Multipliziert Zahlen mit einer while Schleife, welche ein dekrementielle for-Schleife simuliert.
+Es finden 3 Berechnungen statt
+1 * 4 = 4
+4 * 3 = 12
+12 * 2 = 24";1;79,17;4;4;1;Zählt die Anzahl der gemeinsemen Buchstaben zweier String, die an der _selben_ Stelle stehen. Vergleicht dabei nur die Zeichen bis das kürzere Wort komplett durchlaufen wurde.;2;122,791;2;4;3;Sucht den größten gemeinsamen Teiler ;2;162,225;2;4;"5
+7
+14";Sortiert das Array aufsteigend;2;115,091;3;4;2;Binärsuche;2;56,183;4;4;10;Summenfunktion;2;49,769;4;4;19;Ermittlung des Maximums in einem Array;2;87,655;3;4;8;Berechnung der Quersumme;2;85,016;3;4;WAHR;Primzahl-Test;2;41,008;4;4;10;"Gibt die größte von drei Zahlen aus.
+Liefer gar kein Ergebnis, falls die größte Zahl doppel vorkommt, also z.B.:
+num1= 5
+num2 = 10
+num3 = 10
+
+da weder (num2 > num3) noch (num3 > num2)
+=> Keine Ausgabe (für diesen Fall)";2;92,335;4;4;8;"num1 ^ num2 (=num1 ""hoch"" num2)";2;44,987;4;4;WAHR;"Palindrom-Test
+(War eigentlich beim Lesen von ""otto"" schon zu Erahnen ;) )";2;29,52;4;4;42;Vertauschen von zwei Variablen mittels einer dritten Hilfsvariablen zum Zwischenspeichern;2;40,964;4;4;olleH;Kehrt einen String um;2;576,063;3;4;67 51 ? ?;Matrixmultiplikation. (Sorry Ergebnis wurde nicht komplett bestimmt...);1;21,551;4;4;6;Mittelwert zweier Zahlen;2;71,492;4;4;"Substring is contained: 15
+Substring is not contained: -1";Ermittelt ob und ggf. wo (Welche Stelle ab 0 zählend) ein gewisser Teilstring bzw. Suchstring in einem anderen String enthalten ist.;1;128,428;3;4;70;Sucht das kleinste gemeinsame Vielfache;2;106,557;3;4;Here Are A Bunch Of Words;Wandelt den ersten Buchstaben aller Wörter in einem String in einen Großbuchstaben um.;2;59,527;3;4;1;"Die Ausgabe wäre ""100"", nicht ""001"", SORRY!
+Wandelt jedenfalls einen Int-Wert in eine Binärzahl um";2;109,156;3;4;"4
+6
+1";Kehrt ein Array um;2;91,858;3;4;4,5;"Ermittelt den Wert, der in der Mitte eines Arrays steht.
+Ist dieser nicht vorhanden, wird der Mittelwert der zwei Zahlen berechnet, die ""um die Mitte herum"" stehen.";2;49,554;4;4;"2
+6
+22
+14
+8";Verdoppelt die Werte in einem Array;2;;43;
+peTask;rhlhn;77,844;2;3;24;fakultät berechnen;1;66,614;2;3;1;anzahl übereintimmender buchstaben zweier strings;2;148,202;1;2;3;kleinster gemeinsamer teiler;2;185,831;1;2;"5
+7
+14";sortiert den array;2;117,856;1;2;2;gibt position des key-wertes im array aus;2;61,083;2;3;4;addiert n zu result;0;36,758;2;3;19;gibt größten wert im array aus;2;147,789;1;2;8;quersumme;2;90,243;2;3;WAHR;ist zahl primzahl?;2;22,26;3;3;10;größte zahl herausinden;2;76,369;2;3;8;"berechnet ""num1 hoch num2""";2;55,878;2;2;WAHR;ist string palindrom?;2;54,155;3;3;42;"tauscht werte von var1 und var2,
+gibt neuen wert von var1 aus";2;18,536;3;3;olleH;gibt wort rückwärts aus;2;400,662;1;0; 67 ...;matrixmultiplikation;1;22,337;3;4;6;mittelwert zweier zahlen;2;48,746;3;4;"Substring is contained: Java
+Substring is not contained: Pascal";prüft, welche strings im wort-string enthalten sind;2;125,546;2;2;70;nächsthöheres vielfaches der zahl, das die kleinere zahl enthält;2;119,536;1;2; are a bunch of words;"""löscht"" das erste wort des satzes s";0;132,135;2;2;0;umrechnung in binär;1;68,25;2;2;"4
+6
+1";dreht array um;2;116,771;2;2;4;"mittelwert der beiden mittleren werte des array,
+bz. direkt der wert des mittleren werts des array";2;41,544;3;3;"2
+6
+22
+14
+8";verdoppelt die werte im array;2;;39;
+peTask;vbtoh;55,611;3;4;24;"Es wird eine zahl mit einer anderen zahl multipliziert, wobei die eine zahl so lange 
+veringert wird bei jedem Multiplikationsschritt bis sie nicht mehr grösser eins ist und
+somit die berechnug beendet wird und das result ausgegeben wird.";1;62,632;4;4;1;"Vergleich zweier Städte auf ihre gemeinsamen Buchstaben 
+am gleichen Index.";2;118,757;2;2;3;;1;263,07;1;4;"5
+7
+14";Die Plätze von Zahlen in einem int Array werden getauscht.;1;136,532;3;2;2;;1;87,68;3;4;10;"eine zahl selber addiert mit einer um eins wachsenden zahl.
+";2;67,266;4;3;19;Bestimmung des Maximums eines int arrays.;2;243,207;1;1;8;;0;99,665;2;2;WAHR;"Überprüfung ob eine zahl die kleiner ist als number ein 
+vielfaches ist von number.";2;57,975;4;4;10;"Berechnet den größten Wert dreier Zahlen und gibt diesen in
+der Konsole aus.";2;70,109;3;4;8;Potenzrechnen zweier zahlen.;2;97,804;3;3;WAHR;Palindrom berechnung.;2;61,65;4;4;42;Tauschen der int Werte bei zwei int Variablen.;2;55,45;4;4;olleh;Berechnung eines Strings rückwerts.;2;199,332;0;0;;;0;15,113;4;4;6;Berechne das Mittel zweier Zahlen;2;118,406;4;4;"Substring is contained: 15
+Substring is not contained: -1";"Überprüft ob ein String key1 oder key2 in word, also in
+einem Wort auftauchen.";1;190,501;0;1;Error;;0;62,89;0;0;;;0;56,298;3;2;;Endlosschleife;0;116,087;3;3;"4
+6
+1";Tausche erste und letzte position in einem int array.;2;76,449;3;3;6;;0;55,969;4;4;"2
+6
+22
+14
+8";Verdoppelung eines jeden int Werts innerhalb eines int arrays.;2;;29;
+peTask;yrbhn;81,556;2;3;24;ZÃ?hlt einen counter herunter von 4 bis auf 2 in einer Schleife und multipliziert result damit und weist das ergebnis result zu.;1;87,801;2;3;1;Anzahl der Ã?quivalenzen zwischen Buchstaben in zwei WÃ¶rtern feststellen, wobei die Position der Buchstaben berÃ?cksichtigt wird.;2;176,01;1;2;3;Modulo;1;84,76;2;3;14, 5, 7;Array ausgeben;0;233,974;1;3;3;Einen Wert in einem Array finden.;1;89,94;2;3;10;Hinzuaddieren eines inkrementierten Wertes.;2;51,528;4;4;19;Suchen nach dem grÃ¶Ã?ten Wert in einem Array aus natÃ?rlichen Zahlen.;2;151,06;1;2;8;Das Programm addiert die Ergebnisse von number mod 10 solange zu result bis number mod 10 = null ist und gibt result aus.;2;97,352;3;4;WAHR;Testet ob 11 eine Primzahl ist.;2;48,098;4;4;10;Findet die grÃ¶Ã?te von drei Zahlen heraus und gibt sie aus.;2;66,238;3;3;8;Sie implementiert die Potenzfunktion. Das Ergebnis ist hier num1^num2;2;61,033;2;3;WAHR;Schaut ob das Umkehrbar ist(leider habe ich das Fachwort fÃ?r solch ein Wort nicht zur Hand.);2;62,382;4;4;42;Das Programm vertauscht die Inhalte von SpeicherplÃ?tzen und gibt den Inhalt von var2 aus.;2;52,616;3;4;olleH;Umdrehen des Wortes und Ausgabe des Ergebnisses.;2;441,074;0;0;komme nicht darauf;keine ahnung;0;20,678;4;4;6;Den Durchschnitt aus zwei Zahlen berechnen(nicht Mengentheorethisch gemeint) und ausgeben;2;110,068;3;3;"Substring is contained: Java
+Substring is not contained: Pascal";Suchen nach einem Substring und bei Fund Ausgabe, dass er im String ist. Wenn er nicht im String ist, Ausgabe, dass er nicht enthalten ist.;2;157,672;2;3;70;Sucht nach dem kleinsten gemeinsamen Vielfachen.;2;153,279;1;3;25 Here Are A Bunch Of Words;"1. Gibt die LÃ?nge des Strings zum StringBuilder
+2. Splittet die WÃ¶rter und speichert das Ergebnis in words
+3. Geht die WÃ¶rter durch, fÃ?gt jeweils ein Leerzeichen an, macht den jeweils ersten Buchstaben groÃ?
+4. Gibt den StringBuilder aus.";2;68,522;3;4;100;gibt die BinÃ?rsystemdarstellung von int i aus.;2;76,253;3;4;1,6,4;Gibt das array aus.;0;80,26;2;2;9;Errechnet den Durchschnitt aus den zwei mittleren Zahlen des Arrays(Habe davor falsch geantwortet, das Ergebnis ist 4,5);2;48,069;4;4;2, 6, 22, 14, 8;Verdoppelt jeden arraywert und gibt das Array aus.;2;;37;
+peTask;adrac;53,406;4;4;24;Die Methode berechnet die Fakultät der Zahl 4, also der Variablen x;2;64,272;4;4;1;"Die Methode stellt zuerst fest, welcher der beiden Strings der kürzere ist, dieser Wert wird der Variablen length zugewiesen.
+anschließend wird über die ersten Buchstaben (length-viele) der beiden Strings iteriert und die Variable counter um 1 inkrementiert,
+wenn beide Strings an der aktuellen Position den selben Buchstaben haben.";2;89,575;4;4;3;Sie berechnet den ggT der beiden Zahlen in number1 und number2;2;103,54;4;4;"5
+7
+14";"Die Methode stellt eine Implementierung von BubbleSort dar,
+allerdings wird hierbei nur ein Durchlauf ausgeführt
+-> das größte Element steht sicher ganz hinten";2;255,239;3;1;2;sie ermittelt in dem geordneten array die position des wertes von key;2;42,275;4;4;10;Berechnet die Summe der Zahlen von 1 bis n;2;58,733;4;4;19;ermittelt die größte zahl im array;2;194,846;2;0;terminiert nicht;terminiert nicht;0;56,667;4;4;WAHR;einfach implementierter, aber sehr ineffizienter primzahlcheck;2;54,645;4;4;10;gibt die größte der drei zahlen mithilfe einer fallunterscheidung zurück;2;53,189;4;4;8;"num1 beschreibt die basis, num2 den exponenten
+-> berechnet also das exponentialprodukt";2;55,346;4;4;WAHR;"die methode prüft ob es sich bei einem wort um ein ...lack_of_special_term...
+ prüft ob ein Wort symmetrisch ist, also von vorne und von hinten gelesen das selbe ist";2;29,713;4;4;42;verstauscht die inhalt der variablen var1 und var2;2;31,224;4;4;olleH;invertiert den string aus der variablen word;2;511,33;0;0; 67 x x x;"addiert die zahlen der beiden zweidimensionalen arrays
+--> brain-dead";0;23,901;4;4;6;"berechnet den durchschnitt der beiden zahlen a und b
+--> achtung: ganzzahlige division!!";2;69,411;4;4;"Substring is contained: Java
+Substring is not contained: Pascal";Ermittelt, ob eine bestimmter key in einem text enthalten ist;2;113,797;3;3;Error;ermittelt ob die größere der beiden zahlen number1 und number2 durch die andere teilbar ist;0;221,958;3;2;Here Are A Buch Of Words;"trennt den gegebenen string an jedem leerzeichen und fügt die teilstrings in ein string array
+schreibt die ergebnisse dann mit dem stringbuiölder wieder zusammen, macht den ersten buchstaben jeweils groß und fügt (nur) zwischen den wörtern leerzeichen ein";2;69,857;4;2;100;ermittelt die binäre repräsentation der zahl 4;2;65,85;2;1;"6
+1
+4";vertauscht benachbarte werte im array;0;80,895;4;3;4,5;"hat das array eine ungerade anzahl von elementen wird das mittlere ausgegeben
+hat es eine gerade anzahl, wir der durchschnitt der beiden mittleren ausgegeben";2;41,164;4;4;"2
+6
+22
+14
+8";verdoppelt die werte des arrays;2;;38;
+peTask;aisae;63,906;4;4;24;Es rechnet von die Fakultät von 4 aus.;2;91,766;3;3;1;Überprüft wie viele Buchstaben zwei Strings an der selben Stelle gemeinsam haben;2;132,798;3;3;3;Berechnet 12 modulo 9;1;226,19;3;3;"5
+7
+14";Sortiert ein int array der Größe nach und gibt ihn dann aus.;2;206,985;3;3;2;Sucht in einem array ob der Wert von key vorhanden ist und gibt die gesuchte Stelle im Array aus;2;88,049;3;3;10;Gibt die Summe von 0 bis 4 aus;2;109,203;3;3;19;Gibt die größte Zahl im array aus;2;157,149;3;3;8;Gibt die Addition von modulo 323, modulo 323/10 und modulo 323/100 wieder.;2;94,26;3;3;WAHR;Gibt an ob 11 eine Primzahl ist.;2;45,772;4;4;10;Gibt die größte der drei Zahlen aus;2;39,879;3;3;8;Brechnet 2 hoch 3;2;108,934;3;3;WAHR;Gibt an ob ein String symmetrisch ist.;2;29,659;4;4;42;Vertauscht die Werte der zwei Variablen;2;45,08;4;3;olleH;Gibt den String rückwärts aus;2;270,33;1;0;Error;;0;31,385;4;4;6;Durchschnitt von zwei Zahlen;2;97,822;;;;;0;116,861;2;2;70;Gibt die Kleinsten gemeinsamen Zahl an die zwei zahlen teilt.;2;118,269;0;0;;;0;88,326;3;2;100;;1;112,471;2;2;"4 
+6
+4";Gibt der ersten Stelle im array den selben Wert wie den letzten;0;77,081;2;3;4,5;Berechnet den Durchschnitt im Array;2;44,512;3;3;Verdoppelt alle Werte im array und gibt sie dann aus;"Verdoppelt alle Wert im array und gibt diese aus:
+2
+6
+22
+14
+8";2;;36;
+peTask;alnhh;77,075;4;4;24;4! berechnen (4*3*2*1 = 24).;2;106,672;4;4;1;Bestimmen, wie viele Zeichen zweier Strings übereinstimmen.;2;158,053;4;3;3;Berechnung des größten gemeinsamen Teilers.;2;113,632;4;4;"5
+7
+14";Aufsteigende Sortierung eines int-Arrays.;2;248,864;3;4;3;Suche nach einem Element in einem geordneten Array.;1;99,939;4;4;10;Summe der Zahlen von 1 bis 4.;2;72,451;4;4;19;Suchen des größten Elements eines Arrays.;2;55,939;4;4;8;Berechnung der Quersumme einer Zahl.;2;51,201;4;4;WAHR;Prüfen, ob eine Zahl prim ist.;2;63,256;4;4;10;Die größte von drei Zahlen bestimmen.;2;72,246;4;4;8;Potenz von zwei Zahlen berechnen (num1^num2).;2;82,028;4;4;WAHR;Prüfen, ob ein String symmetrisch ist.;2;40,937;4;4;42;Vertauschen von zwei Zahlen und Ausgabe der ersten.;2;108,866;3;2;olleH;Invertieren eines Strings.;2;703,349;0;0;"60 72 84
+50 72 84";Multiplikation zweier Matrizen.;1;24,057;4;4;6;Mittelwert zweier Zahlen berechnen.;2;84,891;4;4;"Substring is contained: Java
+Substring is not contained: Pascal";Prüfen, ob einer von zwei Substrings in einem String enthalten ist.;2;195,779;4;4;70;Berechnung des kleinsten gemeinsamen Vielfachen zweier Zahlen.;2;141,026;3;3;Here Are A Bunch Of Words;Umwandlung aller Wortanfänge eines Strings zu Großbuchstaben.;2;145,811;4;4;100;Umwandlung einer Dezimalzahl in eine Binärzahl.;2;128,896;3;3;"4
+6
+1";Invertieren eines Arrays.;2;157,093;3;3;4,5;Ausgabe des mittleren Wertes eines Arrays.;2;57,853;4;4;"2
+6
+22
+14
+8";Verdopplung aller Einträge eines Arrays.;2;;44;
+peTask;alroa;42,007;3;3;24;FakultÃ?t von 4 berechnen;2;58,355;3;3;1;In wievielen Stellen die beiden Strings Ã?bereinstimmen;2;95,547;2;3;3;grÃ¶Ã?ter gemeinsamer Teiler;2;130,61;2;3;"5
+7
+14";Bubblesort-Sortierung, aufsteigend;2;75,537;3;3;2;BinÃ?re Suche;2;23,825;4;3;10;Summe von 1 bis n (n = 4);2;21,963;3;3;19;Maximales Element eines Arrays berechnen;2;25,106;3;3;8;Quersumme einer Zahl berechnen;2;19,376;4;3;WAHR;Testet, ob eine gegebene Zahl eine Primzahl ist;2;23,12;3;3;10;Maximum dreier Variablen berechnen;2;36,371;3;3;4;num1 in die (num2 - 1)te Potenz erheben;1;11,813;4;3;WAHR;Testet, ob das Eingabewort ein Palindrom ist;2;18,637;4;4;42;Vertauscht zwei Variablen;2;23,546;3;3;olleH;Einen String umdrehen;2;339,968;1;2;67 69 73 88;Matrixmultiplikation;1;16,394;3;3;6;Abgerundetes arithmetisches Mittel zweier Zahlen berechnen;2;45,379;3;3;"Substring is contained: Java
+Substring is not contained: Pascal";Gibt an, ob zwei Teilstrings in einem gemeinsamen String enthalten sind;2;180,493;2;3;70;kleinstes gemeinsames Vielfaches zweier Zahlen berechnen;2;172,294;2;2;Here Are A Bunch Of Words;;1;40,329;3;4;100;Dezimalzahl in BinÃ?rstring umwandeln;2;51,815;3;2;"4
+6
+1";Spiegelt ein Array in der Mitte;2;161,232;2;1;4,5;Median eines Arrays berechnen;2;38,368;3;3;2 6 22 14 8;Verdoppelt jede in einem Array enthaltene Zahl;2;;43;
+peTask;anzls;36,49;4;4;24;Berechnet 4!;2;83,499;3;4;1;ZÃ?hlt wie viele Stellen der WÃ¶rter Ã?bereinstimmen;2;132,889;3;4;3;Berechnet den ggT;2;87,686;4;4;{5, 7, 14};BubbleSort;2;253,574;2;2;5;Gib Key zurÃ?ck wenn key im array enthalten ist;1;19,938;4;4;10;Addiert alle Zahlen von 0 bis 4;2;45,316;4;4;19;Gib das Maximum der Elemente an;2;42,138;4;4;8;Berechnet die Quersumme;2;36,888;4;4;WAHR;Ã?berprÃ?ft ob number prim ist;2;47,355;4;4;10;Gib die grÃ¶Ã?te Zahl aus, falls sie nur einmal vorkommt;2;67,271;4;4;12;num1 mal num2!;0;40,92;4;4;WAHR;Ã?berprÃ?ft ob word ein Palindrom ist;2;27,868;4;4;42;Vertauscht den Inhalt von var1 und var2;2;42,381;4;4;olleH;Verdreht vord;2;387,732;1;2;{{67, 49}, {73, 81}};Matrixmultiplikation;1;18,172;4;4;6;Mittelwert von a und b (abgerundet;2;82,873;4;4;"Substring is contained: Java
+Substring is not contained: Pascal";;1;88,221;4;4;70;Bestimmt das kgV;2;174,716;3;4;Here Are A Bunch Of Words;Macht den ersten Buchstaben jedes Wortes groÃ?;2;38,311;4;4;2;Berechnet den Logarithmus zur Basis 2;0;43,834;4;4;{4, 6, 1};Verdreht das Array;2;77,994;4;4;5;Gibt den Median zurÃ?ck;2;41,846;4;4;{2, 6, 22, 14, 8};Verdoppelt den Wert der Elemente des Arrays;2;;39;
+peTask;aoset;47,273;3;3;24;4 FakultÃ?t berechnen und ausgeben;2;83,079;2;3;1;Bestimmt Anzahl gleicher Buchstaben an jeweils gleicher Position zweier Worte;2;189,336;1;0;1;grÃ¶Ã?ter gemeinsammer Teiler;2;120,511;2;3;"5
+7
+14";Array mit Abwandlung von Bubblesort sortieren;2;90,903;3;4;2;Suche des Key 5 in einem sortierten Array  und RÃ?ckgabe der Position im Array;2;35,908;4;4;10;Summe der natÃ?rlichen Zahlen von 1 bis n=4 berechnen und ausgeben.;2;82,041;3;4;19;Berechnet Maximums eines Arrays und gibt es aus.;2;27,764;4;4;8;Berechnet Quersumme  von 323 und gibt sie aus.;2;31,918;4;4;WAHR;testet ob number=11 prim ist.;2;40,9;4;4;10;Bestimtm das max aus 5, 3 und 10!;2;31,591;4;4;8;Berechnet die num2=3. Potenz von num1=2 bzw;2;37,889;4;4;WAHR;Testest ob otto ein Palindrom ist und gibt true oder false aus;2;27,975;4;4;42;vertauscht die beiden Variablen und gibt dann var1 aus;2;26,232;4;4;olleH;"Spiegelt den String ""Hello"" und gibt die Spiegelung dann aus";2;384,788;0;0;" 37 69 75 81
+";Berechnet Produkt zweier Matritzen;1;18,37;4;4;6;Berechnet den Mittelwert von 8 und 4 und gibt ihne aus.;2;76,126;3;4;"Substring is contained: Java
+Substring is contained: Pascal";;1;105,064;3;4;70;Berechnet kgv;2;320,846;1;0;Here Are A Bunch Of Words;Macht jeden ersten Buchstaben eines Wortes groÃ?;2;59,852;4;4;100;Rechnet dezimal in binÃ?r um;2;49,362;4;4;"4
+6
+1";Spiegelt das Array;2;66,953;3;3;9;FÃ?r Geradzahige Elemente im Array gibt es das mittlere zrucÃ?k fÃ?r ungradzahlige die Summe der mittleren beiden;1;43,1;4;4;"2
+6
+22
+14
+8";Verdopplet jedes Element;2;;43;
+peTask;armae;26,76;4;4;"24
+";berechnet die Fakultät einer Zahl x;2;62,854;3;4;"1
+";Überprüft in wievielen Zeichen an der gleichen Stelle zwei Strings übereinstimmmen;2;108,103;2;3;"3
+0";Abstiegsfunktion;0;110,38;2;3;"5
+7
+14";sortiert ein Array aufsteigend nach der Größe;2;187,151;2;3;"2
+";Sucht Key in sortierter Liste;2;55,959;3;4;"10
+";Summer aller Zahlen bis n;2;68,724;3;4;"19
+";Sucht maximum in Array;2;54,001;4;4;"8
+";einfache Quersumme einer Zahl (Summe der Ziffern);2;43,368;3;4;"true
+";prüft ob Zahl Primzahl ist / keine Teiler außer 1 und 0 hat;2;37,384;4;4;"10
+";Bestimmt Maximum dreier Zahlen (nur wenn wirklich größer und nicht gleich);2;46,819;3;4;"8
+";Hochzahl berechnen;2;46,808;3;4;"true
+";Prüft ob String von links nach rechts gelsen das gleich wie anderesrum ist;2;43,972;4;4;"42
+";vertauscht den Wert zweier Variablen;2;52,818;4;4;"olleH
+";Dreht die Reihnfolge eines Strings um;2;380,989;1;2; 67 62 73 81;Matrixenmultiplikation;1;14,69;4;4;6;Mittelwert zweier Zahlen berechnen;2;119,52;3;2;"Substring is contained: Java
+Substring is not contained: Pascal
+";Prüft vorkommen von Strings in Strings;2;141,612;2;4;"70
+";Bestimmt kleinstens gemeinsammes Vielfaches;2;261,583;2;0;25H S;?;0;103,059;3;4;"100
+";Berechnet Binärzahl einer Dezimalzahl;2;97,393;3;4;"4
+6
+1";Dreht Reihnfolge in Array um;2;84,288;3;3;"4,5
+";bestimmt mittleren Wert einer sortierten Liste;2;27,371;4;4;"2
+6
+22
+14
+8";Multipliziert Inhalt eines Arrays;2;;41;
+peTask;arpoa;27,303;4;4;24;Das Programm berechnet das Ergebnis von 4! (Fakultät);2;72,859;4;4;1;Berechnet an wie vielen Stellen die Buchstaben von 2 Strings übereinstimmen;2;81,863;3;4;3;Berechnet den größten gemeinsamen Teiler zweier Zahlen.;2;111,02;3;3;1475;Ordnet ein Array der Größe nach absteigend;2;343,175;1;3;5;Prüft, an welcher Stelle im Array eine bestimmte Zahl (key) steht.;2;45,133;4;4;10;Summiert die Zahlen von 0 bis 4 auf.;2;50,132;4;4;19;Gibt die größte Zahl aus einem Array aus.;2;76,512;3;3;5;Summiert alle Stellen einer Zahl bis auf die erste auf;1;82,074;3;4;WAHR;Überprüft, ob eine Zahl eine Primzahl ist;2;37,155;4;4;10;Gibt die größte von 3 Zahlen aus.;2;49,966;4;4;8;Bildet die Potenz von einer Zahl mit einer anderen;2;36,473;4;4;WAHR;Prüft, ob ein Wort ein Palindrom ist;2;16,288;4;4;42;Vertauscht 2 Zahlen;2;25,451;4;4;olleH;Dreht ein Wort um;2;552,756;2;1;67 81 ;Bildet die Matrixmultiplikation 2 Matrizen;1;25,702;4;4;6;Bildet den Mittelwert zweier Zahlen;2;84,445;4;4;"Substring is contained: Java
+Substring is not contained: Pascal";Prüft, ob bestimmte Strings in einem anderen Strin vorkommen;2;192,682;3;2;70;Bestimmt das kleinste gemeinsame Vielfache zweier Zahlen;2;107,522;3;3;Here Are A Bunch Of Words;Ändert jeden ersten Buchstaben eines Wortes in einem String in einen Großbuchstaben;2;166,389;4;4;100;Rechnet eine Zahl in die Binärdarstellung um;2;86,217;3;3;461;Spiegelt ein Array in seiner Mitte;2;87,11;3;4;4;Gibt entweder die Zahl  in der Mitte eines Arrays aus, oder addiert die beiden mittleren Zahlen und gibt sie dann aus, falls das Array eine gerade Länge hat.;1;51,676;4;4;1622148;Verdoppelt jede Zahl im Array;2;;43;
+peTask;ASCEL;94,955;3;4;24;Berechnung der Fakultät einer Zahl;2;51,559;4;4;1;"Vergleicht zwei Strings, wie viele Buchstaben an der jeweiligen Stelle gleich sind
+gibt das Ergebnis zurück";2;71,992;2;1;3;"Berechnet den Rest, wenn man eine zahl durch eine andere teilt;
+teilt diese Zahl dann wieder durch den Rest";1;151,85;3;4;"5
+7
+14";Sortiert ein Array aufsteigend;2;228,502;1;3;2;Bestimmt die Position, an der sich ein gesuchter Wert in einem Array befindet;2;25,167;3;3;10;Addiert von 1 bis zu einem vorgegebenen Wert alle natürlichen Zahlen;2;29,414;4;4;19;Berechnet die größte Zahl eines Arrays;2;88,009;3;3;8;"teilt eine gegebene Zahl immer wieder durch 10 und speichert den jeweils auftretenden Rest
+addiert die jeweiligen Reste";1;40,172;4;4;FALSCH;überprüft, ob eine Zahl eine Primzahl ist;2;20,833;4;4;10;Gibt die größte Zahl zurück;2;69,339;3;4;8;berechnet eine zahl hoch die andere zahl;2;29,987;4;4;WAHR;Überprüfung auf Palindrom;2;23,076;4;4;42;Führt einen Swap (Vertauschung des Inhalts zweier Variablen) durch;2;27,936;4;4;olleH;Gibt das Wort in umgekehrter Reihenfolge der Buchstaben zurück;2;493,789;1;1;"67 69 
+73 81";führt eine matrixmultiplikation durch;2;12,399;4;4;6;Berechnet den Durchschnitt zweier Zahlen;2;52,424;4;4;"Substring is contained: Java
+Substring is not contained: Pascal";Überprüft, ob Wörter in einem String enthalten sind oder nicht;2;80,944;1;0;70;Berechnet das kleinste gemeinsame Vielfache zweier Zahlen;2;114,161;0;0;hereH areA aA bunchB ofO wordsW;;0;77,472;3;1;100;Berechnet die Binärdarstellung einer Zahl;2;78,104;1;2;4 6 1;Spiegelung eines Arrays;2;61,202;1;1;4,5;"Sortiert ein Array
+Berechnet den Durchschnitt der beiden mittleren Werte";2;27,16;4;4;"2
+6
+22
+14
+8";Verdoppelt jede Zahl eines int-Arrays;2;;42;
+peTask;ihlec;41,999;3;4;12;"Sie berechnet die FakultÃ?t von 4.
+(Korrektur zum Ergebnis: Die Ausgabe ist natÃ?rlich 24)";2;72,584;3;4;1;Sie vergleicht parallel die Buchstaben zweier WÃ¶rter und gibt die Anzahl der Ã?bereinstimmungen aus;2;57,143;2;3;3;Sie berechnet den GGT zweier Zahlen;2;94,226;3;4;{5,7,14};Sortieren eines Arrays;2;103,644;3;4;2;Gibt den Arrayindex einer gewÃ?nschten Zahl aus;2;28,661;4;4;10;Aufsummierung von Zahlen von 0 bis n;2;21,154;4;4;19;Maximalen Wert eines Arrays berechnen;2;39,688;4;4;8;Quersummenberechnung einer Zahl;2;16,706;4;4;WAHR;Ã?berprÃ?fung, ob eine Zahl eine Primzahl ist;2;18,203;4;4;10;Maximum von drei Zahlen berechnen;2;15,587;3;3;8;Potenziert zwei Zahlen miteinander;2;13,867;4;4;WAHR;Ã?berprÃ?ft, ob ein Wort ein Palindrom ist;2;32,803;4;4;42;Swap zweier Variablen;2;34,051;4;4;olleH;Umkehren eines Wortes;2;569,597;1;2;67 69 73 79;Matrixmultiplikation;1;8,755;4;4;6;Mittelwert zweier Zahlen  berechnen;2;59,561;2;2;"Substring ist contained: Java
+Substring is not contained: Pascal";Patternmatching in einem Text;2;134,881;2;3;70;kleinstes gemeinsames Vielfaches zweier Zahlen berechnen;2;287,164;1;2;Here Are A Bunch Of Words;"Macht in einem String den Anfangsbuchstaben jedes Wortes
+zu einem GroÃ?buchstaben";2;102,146;4;4;100;Dezimalzahl in BinÃ?rzahl umrechnen;2;63,226;3;3;4 6 1;Spiegelt ein Array;2;98,858;2;2;4,5;Gibt den mittleren Wert in einem Array an;2;32,315;4;4;"2
+6
+22
+14
+8";Verdoppelt jeden Wert eines Arrays;2;;45;
+peTask;nrseh;42,292;4;4;24;FakultÃ?tsfunktion oder gibt bei eingabe <=1 1 aus;2;94,024;4;4;1;gibt aus wie viele chars an den jeweiligen stellen gleich sind;2;181,193;2;4;3;GrÃ¶Ã?ter gemeinsamer teiler;2;116,546;3;4;5, 7, 14;Bubblesort;2;270,488;2;3;2;sucht position von Zahl in array;2;79,893;2;3;10;Summenzeichen;2;25,051;;4;19;sucht grÃ¶Ã?te zahl in array;2;87,138;4;4;8;Quersumme;2;57,237;4;4;FALSCH;checkt ob zahl keine primzahl ist;2;29,575;4;4;10;gibt grÃ¶Ã?te dreier zahlen aus;2;76,035;3;3;8;num1 ^ (num2 - 1);1;52,131;4;4;WAHR;checkt ob wort anagramm ist;2;35,559;4;4;42;vertauscht zwei zahlen und gibt danach erste aus;2;35,066;4;4;olleH;gibt Wort rÃ?ckwÃ?rts aus;2;444,393;2;2; 67 69 73 81;Kreuzprodukt;1;19,948;4;4;6;Durchschnitt zweier Zahlen;2;137,8;2;2;Substring is contained: Java;check if a string is a substring;1;122,32;3;3;70;grÃ¶Ã?ter gemeinsamer Nenner;2;98,951;4;4; Here Are A Bunch Of Words;vergrÃ¶Ã?ert anfangsbuchstaben;2;79,202;4;4;100;binÃ?darstellung einer zahl;2;172,729;2;2;"4
+6
+1";dreht array um;2;96,249;4;4;4,5;durchschnitt von array;2;25,969;4;4;"1
+6
+22
+14
+8";verdoppelt zahlen in array;2;;43;
+peTask;oszui;94,042;3;3;24;Berechnet die Fakultät einer Zahl;2;105,64;3;3;1;Sie zählt die Anzahl der übereinstimmenden Buchstaben in zwei Wörtern an den jeweiligen Stellen.;2;210,565;2;2;3;Moduloberechnung;1;140,285;3;3;"5
+7
+14";aufteigende Sortierung des Arrays mittels Bubblesort;2;298,516;2;0;5;Position eines bestimmten Elements im Array suchen;1;51,069;3;3;10;Zahlen von 1 bis n aufsummieren;2;54,284;4;4;19;Größtes Element in einem Array suchen;2;81,005;3;3;8;Quersumme berechnen;2;47,364;3;3;WAHR;Primzahltest;2;49,641;3;3;10;gibt die größte von drei Zahlen aus;2;78,362;3;3;8;Potenz wird berechnet;2;39,093;3;3;WAHR;Palindromtest;2;43,395;3;3;42;Swap;2;70,39;3;3;"""olleH""";Umdrehen eines Strings;2;360,19;1;1;Exception;;0;40,063;3;3;6;abgerundete Durchschnitt;2;144,598;2;2;"""Substring is contained: ""Java
+""Substring is not contained: ""Pascal";Suche von Substrings;2;170,056;2;2;70;kleinste gemeinsame Vielfache;2;139,377;2;2;Here Are A Bunch Of Words;setzt die Anfangsbuchstaben groß;2;124,328;2;2;10;kodiert eine Zahl binär;1;77,916;2;2;"1
+4
+6";Vertauscht die letzten beiden Zahlen im Array;0;56,365;1;1;4;Durchschnitt der beiden mittleren Zahlen im Array abgerundet;2;39,26;3;3;"1
+6
+22
+14
+8";Multiplikation der Arrayelemente mit 2;2;;39;
+peTask;reooe;54,191;3;4;24;Berechnung der Fakultät;2;92,528;2;4;1;;1;90,034;2;4;3;ggT;2;172,3;2;2;"5, 7, 14
+";Bubblesort;2;156,828;2;3;2;"Such einer Zahl in einem Array. 
+Ausgabe an welcher Stelle dieser zu finden ist.";2;46,479;3;4;"10
+";Aufaddieren der ersten n Zahlen, angefangen bei der 1.;2;21,913;3;4;19;Finden des größten Elementes in einem Array;2;82,734;3;0;5;Quersumme;2;26,478;4;4;"true
+";Bestimmen ob eine Zahl eine Primzahl ist.;2;34,711;4;4;10;Ausgabe der größten Zahl;2;55,689;3;4;8;Potenzberechung;2;28,664;3;3;WAHR;Auffinden eines Palindroms;2;23,668;4;4;42;Vertauschen zweier Zahlen;2;25,708;4;4;olleH;Umkehrung eines Strings;2;310,504;1;2;67 73 62 81;Matrixmultiplikation;1;16,806;4;4;6;Berechung des Mittelwertes;2;134,993;2;3;"SubSubstring is contained: Java
+Substring is not contained: Pascal";Test, ob Strings in einem anderen String enthalten ist.;2;129,519;3;4;70;"Such nach der kleinsten Uahl, die beide gegebenen Zahlen enthält.
+Kleinster gemeinsamer Nenner.";2;124,531;2;2;Here Are A Bunch Of Words;Verpasst jedem Wort in dem String am Anfang einen Großbuchstaben;2;86,301;2;4;1;Umrechnung vom Dezimal- in Binärsystem;1;106,294;2;3;4 6 1;Umdrehen der Reihenfolge in einem int-Array.;2;88,467;2;3;4,5;Berechnet den Mittelwert eines gegebenen Zahlenarrays;2;97,851;2;3;2 6 22 14 8;Verdoppelt eine gegebene Zahlenmenge;2;;43;
+peTask;rsvle;55,633;3;3;24;Die Fakultät der hartcodrierten Zahl 4;2;61,629;3;3;1;Vergleich zweier Worte auf gleiche Buchstaben an der gleichen Stelle;2;143,473;2;3;3;Euklidischer Algorithmus zur Bestimmung des größten gemeinsamen Teilers;2;99;2;2;"5
+7
+14";Bubble-Sort;2;88,117;2;3;2;Binäre Suche (nach Zahl key = 5);2;65,373;2;3;10;"Summe aller natrülichen Zahlen bis zu Zahl n
+(ginge in 0(1) mit Gaußscher Summenformel ;))";2;46,716;3;3;19;Bestimmnung des Maximums;2;103,83;2;2;8;Quersumme;2;42,066;3;3;WAHR;Primzahltest;2;38,151;3;3;10;Maximum dreier natürlichen Zahlen;2;56,959;3;3;8;num1 ^ num2 (Potenz);2;31,964;3;3;WAHR;Prüfung ob String word ein Anagramm ist (d.h. von vor und hinten gelesen das gleiche ergibt);2;28,129;3;3;42;Vertauschen zweier Variablenwerte;2;26,639;3;3;olleH;"""Umdrehen"" eines Strings (als würde man ihn von hinten lesen)";2;285,969;2;2;" 67 69
+ 73 81
+ ";"Matrixmutliplikation
+(Erkennen leicht; Ausrechnen schwer)";2;11,544;4;3;6;Mittelwert zweier Zahlen;2;73,867;3;3;"Substring is contained: Java
+Substring is not contained: Pascal";Prüfung ob key ein Teilwort von word ist.;2;88,039;2;2;Error;Prüfung ob die kleine Zahl Teiler der größeren Zahl ist;0;67,269;2;3;Here Are A Bunch Of Words;Alle Anfangsbuchstaben in Großbuchstaben umwandeln;2;30,794;3;3;1;Binärdarstellung einer Zahl (Achtung Leserichtung: größter Stellenwert steht hinten);1;84,486;2;3;"4
+6
+1";"""Spiegeln"" eines Arrays (also ehemals letzter Wert nun erster)";2;164,371;2;2;3,5;Sucht bei ungerader Anzahl den mittleren Wert, berechnet ihn ansonsten;1;36,674;3;3;"2
+6
+22
+14
+8";Verdoppelt jede Zahl;2;;42;
+peTask;vrvhd;29,474;4;3;24;Funktion berechner FakultÃ?t fÃ?r eine Ã?bergebene zahl;2;74,147;2;3;"1
+";Die Funktion gibts aus wie viele Buchstaben zweiter Strings an der gleichen Stelle identisch sind;2;76,614;2;1;3;Die Methode berechnet den Differenz zweier Integer werte;1;79,222;2;2;"7
+5
+14";Die MEthopde invertiert ein Int Array und gibt das konvertierte Array auf der Konsole aus;0;136,806;2;4;2;Die Funktion gibt den Index an an dem eine Wert ( key) im Array steht;2;83,245;2;3;"10
+";"Das Programm berechnet die GauÃ?summe 1+2+..+n fÃ?r ein Ã?bergebene n
+ung gibt diese auf der Konsole aus";2;24,491;2;3;19;Die Funktion gibt den GrÃ¶Ã?ten wert eines IUnt arrays aus;2;48,9;3;4;8;Das Programm berechnet die Quersumme einner zahl und gibt diese aus;2;51,517;3;4;WAHR;Die Funktion Ã?berprÃ?ft ob eine Zahl eine Primzahl ist;2;27,413;3;4;10;"Die Funktion prÃ?ft welche von 3 Zahlen die GrÃ¶Ã?te ist und gibt diese aus
+falls eine der Zahlen die grÃ¶Ã?te ist.";2;37,165;3;4;8;Die Funktion berechnet die potenz einer Zahl hier 2 hoch 3;2;16,289;4;4;WAHR;Die Funktion Ã?berprÃ?ft ob ein String ein palindrom ist;2;23,115;4;4;42;Die methode vertauscht die werte zweier Variablen;2;33,777;3;4;olleh;Die Funktion invertiert einen String;2;317,889;1;1;"60
+72
+84
+93";Die Funktion Multipliziert 2 Matrizen;1;23,734;3;4;6;Die Funktion gibt denn Mittelwert  zweier int aus;2;116,816;3;3;"Substring is contained: Java
+Substring is not contained: Pascal";Die Funktion prÃ?ft ob ein String in einem anderen String vorkommt und gibt dies aus;2;150,31;2;3;70;Die Funktion berechnet das kleinste gemeinsame Vielfache zweir Zahlen;2;70,012;2;1;Here Are A Bunsch Of Words;Die Funktion Ã?ndert die GroÃ?schreibung eines String;2;44,88;3;4;100;Die Funktion gibt eine Zahl in BinÃ?rdarstellung aus;2;43,696;3;3;"4 
+6
+1";Die Funktion invertiert ein Int Array;2;81,43;2;3;"4.5
+";Die Funktion berechnet den median eines Int Arrays;2;50,053;3;4;"2 
+6
+22
+14
+8";Die Funktion verdoppelt die Werte eines Arrays;2;;42;
+peTask;tg56;82,048;4;4;24;fakultät(x);2;59,557;4;4;1;gibt die Anzahl der Stellen an, in der die beiden Strings übereinstimmen;2;97,47;4;4;3;berechnet den größten gemeinsamen Teiler;2;55,442;4;4;5 7 14;sortiert das Array aufsteigend;2;261,041;1;1;2;"gibt die Position von Key im Array aus?
+
+Kommentar: ohne Zettel und Stift erscheint mir die Lösbarkeit zweifelhaft";2;28,748;4;4;10;Summe der Zahlen von 1 bis n;2;36,397;3;4;19;gibt Maximum der Zahlen in einem Array aus;2;17,226;4;4;8;Quersumme von number;2;25,374;3;4;true;gibt aus, ob number Primzahl;2;33,58;4;4;10;gibt das Maximum von drei Zahlen aus;2;39,268;4;4;8;gibt num1^num2 aus;2;41,284;4;4;true;gibt aus, ob word ein Palindrom ist;2;27,731;4;4;42;tauscht die Werte der Variablen var1 und var2;2;29,145;4;4;olleH;gibt word rückwärts aus;2;63,824;0;3;nicht ohne zettel und stift;Vermutlich Matrixmultiplikation;1;22,598;4;4;6;gibt den Durchschnitt von a und b aus;2;63,783;4;4;"Substring is contained: Java
+Substring is not contained: Pascal";prüft word auf die teilstrings key1 und key2;2;38,889;3;4;70;gibt das keineste gemeinsame Vielfache aus;2;114,309;3;4;Here Are A Bunch Of Words;ändert das erste Zeichen eines jeden Wortes in den entsprechenden Großbuchstaben;2;114,587;3;4;100;überführt i in Binärzahl;2;92,371;2;3;4 6 1;kehrt die Reihenfolge der Elemente eines Array um;2;147,165;2;4;4,5;gibt bei Arrays geradzahliger Lämge den Mittelwert der beiden zentralen Elemente, bei Arrays ungeradzahliger Länge das zentrale Element aus;2;81,863;3;4;2 6 22 14 8;gibt das elementweise verdoppelt den Inhalt eines Array aus;2;;45;

@@ -1,0 +1,1 @@
+RedirectMatch 301 http://wwwiti.cs.uni-magdeburg.de/~feigensp/emcs/(.*) http://wwwiti.cs.uni-magdeburg.de/iti_db/lehre/emcs/2012//$1
